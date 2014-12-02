@@ -1,0 +1,2572 @@
+{
+  "clothing" : [ {
+    "address" : "16550 SW Merlo Rd, Portable #1",
+    "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.5052537, -122.8467903 ]
+    },
+    "hours" : "8 a.m.-4 p.m. Mon-Fri.",
+    "name" : "Beaverton Family Resource Center",
+    "notes" : "Children's clothing and diapers provided through Northwest Children's Outreach. Parenting classes and referrals for energy assistance available. Serving Beaverton area primarily, call in advance. Bus service: MAX Blue or Red",
+    "phone" : "503-591-4176"
+  }, {
+    "address" : "12555 SW 4th St. #206",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.4845123, -122.8060989 ]
+    },
+    "hours" : "9 a.m.- 3 p.m. Mon, Tues, and Wed.",
+    "name" : "Beaverton Hispanic Resource Center",
+    "notes" : "English and Spanish classes; assistance for food, employment, and emergency needs. Referrals for clothing, immigration, medical car, domestic violence, and counseling. Translation services and help filling out forms.",
+    "phone" : "503-270-0272",
+    "url" : "http://www.beavertonhrc.org"
+  }, {
+    "address" : "14645 SW Davis Road",
+    "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.4740395, -122.8273724 ]
+    },
+    "hours" : "9 a.m.-noon and 12:30 -1:30 p.m. Tuesdays.",
+    "name" : "Beaverton Seventh-Day Adventist",
+    "notes" : "Clients can walk in during open hours to access clothes closet. Bus service: 62, 88.",
+    "phone" : "503-646-9828",
+    "url" : "http://www.beavertonsda.com",
+    "zip" : "97007-5136"
+  }, {
+    "address" : "232 NE Lincoln St, Ste. F",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.5238542, -122.9872891 ]
+    },
+    "hours" : "9:30 a.m.–4 p.m. Mon, Tues, Thurs.",
+    "name" : "Birthright of Hillsboro",
+    "notes" : "Maternity and baby clothes. Free confidential pregnancy tests; help finding medical care, financial assistance, housing, continuing education and relocation. Bus service: 57, MAX Blue line.",
+    "phone" : "503-648-6766",
+    "url" : "http://www.birthright.org",
+    "zip" : "97124-3048"
+  }, {
+    "address" : "555 SW 2nd Ave",
+    "city" : "Canby",
+    "coords" : {
+      "l" : [ 45.2591342, -122.6972973 ]
+    },
+    "hours" : "Call for hours and service",
+    "name" : "Canby Center",
+    "notes" : "Outreach to the Canby School District community that meets basic needs: food and clothing. Baby/toddler, children’s, maternity, men’s and women’s clothing Call for hours and services.",
+    "phone" : "503-266-2920",
+    "url" : "http://www.thecanbycenter.org",
+    "zip" : "97013-3901"
+  }, {
+    "address" : "22222 SW Grahams Ferry Road",
+    "city" : "Tualatin",
+    "coords" : {
+      "l" : [ 45.3591614, -122.7778091 ]
+    },
+    "hours" : "10 a.m.-noon Wed. (other hours by apt.)",
+    "name" : "Dorcas Society-Tualatin",
+    "notes" : "Provides clothing, bedding and linens for residents of Wilsonville, Tualatin or other nearby towns. Showers available for homeless persons. Bus service: 96",
+    "phone" : "503-692-2915",
+    "zip" : "97062"
+  }, {
+    "address" : "1335 SE Hawthorne Blvd.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5124359, -122.6519623 ]
+    },
+    "hours" : "9:30 a.m. - 2:00 p.m. Mon - Thurs.",
+    "name" : "Fish Emergency Services",
+    "notes" : "Clothing for families in need. Items provided include emergency food boxes, clothing, personal care products (soap, toothpaste, laundry soap, etc.) and referrals for people most in need.",
+    "phone" : "503-233-5533",
+    "url" : "http://www.fishemergencyservice.org/",
+    "zip" : "97214-3691"
+  }, {
+    "address" : "6535 SE 82nd Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.47533, -122.579384 ]
+    },
+    "hours" : "10 a.m.-2 p.m. Mon.- Thurs., Clothing 10a.m.-1p.m.",
+    "name" : "Francis Center",
+    "notes" : "Free clothing and emergency assistance within boundary area. Boundary area is Clatsop to Powell, 39th-136th; Powell to Glisan, 60th-82nd.",
+    "phone" : "503-775-6784",
+    "zip" : "97266-5658"
+  }, {
+    "address" : "9170 NW Sargent Rd",
+    "city" : "Gales Creek",
+    "coords" : {
+      "l" : [ 45.586422, -123.2147141 ]
+    },
+    "hours" : "Tue. & Fri., 9:00a.m.-12:00p.m.",
+    "name" : "God’s Clothing Central (Gales Creek Church)",
+    "notes" : "Clothing for all ages and sizes; shoes, coats, and some blankets. On-call appointments only. Leave a message and your call will be returned. Bus service: none",
+    "phone" : "503-357-8873",
+    "zip" : "97117-9386"
+  }, {
+    "address" : "14986 NW Cornell",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5318472, -122.8307198 ]
+    },
+    "hours" : "9:30 a.m.–12 p.m. Wed. Thursday 4:30 p.m.-6:30 p.m.",
+    "name" : "Helping Hands (Sunset Presbyterian Church)",
+    "notes" : "Adult and children’s clothing and shoes are limited to one bag a month. Bus service: 89 .",
+    "phone" : "503-292-9293",
+    "url" : "http://www.sunsetpres.org",
+    "zip" : "97229"
+  }, {
+    "address" : "451 SE Walnut St.",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.5175698, -122.98354 ]
+    },
+    "hours" : "9:30 a.m.-6:30 p.m. Mon, Wed, and Thur; 9:30 a.m.-1:30 p.m. Tues.",
+    "name" : "Hillsboro Family Resource Center",
+    "notes" : "Food pantry, food boxes, clothing closet, other services.",
+    "phone" : "503-844-1688",
+    "url" : "http://www.youthcontact.org"
+  }, {
+    "address" : "1400 NE 48th Ave.",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.5355949, -122.9328384 ]
+    },
+    "hours" : "6- 7:30 p.m. Wed.",
+    "name" : "Our Place Clothes Closet",
+    "notes" : "Provides quality new and used clothing to persons and families in need in the Hillsboro community; clothing available when church has supplies on hand. A meal is also served during these times. Bus service: MAX Blue line",
+    "phone" : "503-726-0773 Ext. 101",
+    "url" : "http://www.ourplacechurch.com",
+    "zip" : "97124-5102"
+  }, {
+    "address" : "687 N. Thompson St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.538862, -122.673343 ]
+    },
+    "name" : "Portland Police Sunshine Division",
+    "notes" : "Provides clothing to individuals and families with children under 18 and seniors over 70 and single adults on SSI, SD, or VA pension. Must have Portland address. Please call beforehand.",
+    "phone" : "503-823-2102",
+    "url" : "http://www.sunshinedivision.org",
+    "zip" : "97227-1820"
+  }, {
+    "address" : "111 W. Burnside St",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5231421, -122.6715837 ]
+    },
+    "hours" : "24-hours a day.",
+    "name" : "Portland Rescue Mission",
+    "notes" : "Clean clothing provided as needed to overnight guests and in emergency situations.",
+    "phone" : "503-906-7690",
+    "url" : "http://www.portlandrescuemission.org/",
+    "zip" : "97209-4007"
+  }, {
+    "address" : "13053 SE 84th Ave",
+    "city" : "Clackamas",
+    "coords" : {
+      "l" : [ 45.4283729, -122.5770043 ]
+    },
+    "hours" : "10 a.m.-4:15 p.m. Mon., Wed., Thur., and Fri.; 1:30-6:15 p.m. Tues.",
+    "name" : "Pregnancy Resource Center",
+    "notes" : "Baby and maternity clothes, baby toys and furnishings. Additional services include pregnancy tests, ultra-sounds, ongoing peer-counseling, pregnancy and fetal development information, information on abortion risks, procedures and alternatives, adoption information and referrals, parenting classes, referrals for medical care, housing, legal aid, others.",
+    "phone" : "503-659-3336",
+    "url" : "http://www.prcofportland.com",
+    "zip" : "97015-9798"
+  }, {
+    "address" : "627 NW 18th Ave",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5275993, -122.6897049 ]
+    },
+    "hours" : "Hospitality hours 8:30 - 3:00pm",
+    "name" : "Rose Haven",
+    "notes" : "Women and children only: Access center for clothing, hygiene, mailing address and voice mail. Advocacy and referral for health care, nutrition, housing, employment and other social services. Groups and classes include Rent Well.",
+    "phone" : "503-248-6364 (Calls accepted from 8a.m.-4:30p.m.)",
+    "url" : "http://www.rosehaven.org",
+    "zip" : "97209"
+  }, {
+    "address" : "17805 SE Stark St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5192053, -122.4801551 ]
+    },
+    "hours" : "10 a.m.-2 p.m. Mon, Wed, Thurs, Fri. 10am-4pm Tues.",
+    "name" : "Snow Cap",
+    "notes" : "Clothing for adulst and chilrden. Six times a yaer only. Energy assistance with proof of address. Serves only east of 82nd Ave.",
+    "phone" : "503-674-8785",
+    "url" : "http://www.snowcap.org/",
+    "zip" : "97233-4823"
+  }, {
+    "address" : "5535 SE Rhone St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.4963379, -122.6054916 ]
+    },
+    "hours" : "10 a.m.-2 p.m. Mon and Thurs, 2-6 p.m.",
+    "name" : "Southeast Community Church of the Nazarene",
+    "notes" : "Clothes closet, one bag. Dependent upon availability.",
+    "phone" : "503-895-6102",
+    "url" : "http://www.southeastcommunity.org"
+  }, {
+    "address" : "601 W. Burnside St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5231012, -122.6766376 ]
+    },
+    "hours" : "9:30 a.m.- 11:30 a.m",
+    "name" : "Downtown Chapel",
+    "notes" : "Clothing once every 30 days. Sleeping bags and backpacks depending on availability (Fri.). Other services include sleeping blankets, phone calls, hair care & foot care (Wed), prescription assistance (non-narcotic), travel assistance and help procuring birth certificates. Mon.-Fri.",
+    "phone" : "503-228-0746",
+    "url" : "http://www.downtownchapel.org",
+    "zip" : "97209-3614"
+  }, {
+    "address" : "9000 SW Durham Road, Portable 716 Tigard High School",
+    "city" : "Tigard",
+    "coords" : {
+      "l" : [ 45.4042451, -122.7699704 ]
+    },
+    "hours" : "9a.m.-12p.m., 1p.m.-3p.m. Mon.-Fri.",
+    "name" : "Tigard/Tualatin Family Resource Center",
+    "notes" : "Small clothing closet and limited amount of baby diapers and formula. Call for information and appointments. Information and refferal service available via Tigard/Tualaton School. Call for information. Bus service: 76.",
+    "phone" : "503-603-1585",
+    "url" : "http://www.TTSD.K12.OR.US/TTRC"
+  }, {
+    "address" : "2727 SE Alder St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5182228, -122.6373978 ]
+    },
+    "hours" : "",
+    "name" : "Tod’s Corner",
+    "notes" : "Clothing, household goods, cleaning supplies, personal care items & pet food and other services as requested. Clients must have HIV/AIDS and have a referral from a case manager.",
+    "phone" : "503-349-4699",
+    "url" : "http://www.ourhouseofportland.org",
+    "zip" : "97214"
+  }, {
+    "address" : "650 NW Irving St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5279083, -122.6853409 ]
+    },
+    "name" : "T Projects",
+    "notes" : "Clothing room open 10a-11 & 6p-7, Mon.-Fri.; 8a-12p, weekends/holidays. Once outfit per day. Showers available for men and women; 7a-11. Call for info about ID assistance, Mailing address, food boxes, day lockers and phone access.",
+    "phone" : "503-280-4700",
+    "url" : "http://www.tprojects.org",
+    "zip" : "97209"
+  }, {
+    "address" : "15 NW Third Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5232909, -122.6734377 ]
+    },
+    "hours" : "10:00 a.m.-12 p.m. & 2:00 p.m.-4:30 p.m., Monday-Friday.",
+    "name" : "Union Gospel Mission",
+    "notes" : "Provides clothing to people in need.",
+    "phone" : "503-274-4483",
+    "url" : "http://www.ugmportland.org",
+    "zip" : "97209-3906"
+  } ],
+  "counseling" : [ {
+    "coords" : {
+      "l" : [ 45.496265, -122.628871 ]
+    },
+    "address" : "3430 SE Powell Blvd",
+    "city" : "Portland",
+    "name" : "Asian Health and Service Center",
+    "notes" : "Health and community services including: ESL classes, recreation and cultural activities, employment information and consultation, family and youth services, Chinese immersion preschool, mental health assessment/screening, individual and group therapy, case management, addiction assessment/screening/treatment, volunteer services, family caregiver program, womens health promotion project and emergency preparedness.",
+    "phone" : "503-641-4113",
+    "url" : "http://www.ahscpdx.org/",
+    "zip" : "97202"
+  }, {
+    "address" : "2740 SE Powell Blvd, Suite #7",
+    "city" : "Portland",
+    "hours" : "8:30a.m.-5p.m. Mon-Fri.",
+    "name" : "Catholic Charities Pregnancy Support and Adoption Services",
+    "notes" : "Supportive services to expecting mothers, such as baby and maternity supplies, resource assistance in future planning, professional counseling, and parenting education. Adoption services provided at no cost. For adoptive families we offer: child centered adoptions, home study reports and post placement supervision, special needs adoption (through state foster care). Relationship counseling offered as well.",
+    "phone" : "800-783-5857 503-238-5196",
+    "url" : "http://www.catholiccharitiesoregon.org/",
+    "zip" : "97202"
+  }, {
+    "address" : "229 SE 181st Ave.",
+    "city" : "Portland",
+    "hours" : "9:30 a.m - 5 p.m. Mon.-Fri",
+    "name" : "Center for Family Success-Rockwood",
+    "notes" : "Parenting Inside Out class for parents involved in the criminal justice system with children 18 or younger. Some Spanish-language classes available. Must live in Portland area. Priority given to mandated persons but not required. Free anger management classes.",
+    "phone" : "503-286-0600",
+    "url" : "",
+    "zip" : ""
+  }, {
+    "address" : "12720 SW Pacific Hwy.",
+    "city" : "Tigard",
+    "hours" : "8:30 a.m.–8 p.m. Mon.-Wed., 8:30 a.m. – 5 p.m. Thurs. and Fri.",
+    "notes" : "Provides counseling for victims and offenders of sexual abuse. Psychological testing and evaluation, polygraph exams; anger management treatment. Victims (survivors) of sexual abuse are treated without charge.",
+    "phone" : "503-657-0683",
+    "zip" : "97223"
+  }, {
+    "address" : "2051 Kaen Road Public Service Bldg-Rm 210",
+    "city" : "Oregon City",
+    "hours" : "8 a.m.-5 p.m. Mon & Wed; 8 a.m.-7 p.m. Tue & Thur; 8am-noon Fri.",
+    "name" : "Clackamas County Family Court Services",
+    "notes" : "Relationship and marital counseling for couples; family mediation for parents and children; divorce mediation. Fees: $80/hour, payment plans and waivers available; parent education class $60, but discounted if registered within 45 days of filing/ being served.",
+    "phone" : "503-655-8415",
+    "url" : "http://www.co.clackamas.or.us/fcs",
+    "zip" : "97045"
+  }, {
+    "address" : "9340 SW Barnes Rd. Suite 100A",
+    "city" : "Portland",
+    "hours" : "Mon.-Fri., 9a.m.-4:30p.m.",
+    "name" : "Community Action Opening Doors",
+    "notes" : "Connects pregnant women and first time parents with prenatal care and other family services. Provides support, education and advocacy.",
+    "phone" : "503-517-3198",
+    "url" : "http://www.CommunityAction4U.org",
+    "zip" : "97225"
+  }, {
+    "address" : "232 SE 80th St",
+    "city" : "Portland",
+    "hours" : "7:30-9 p.m., Thurs.",
+    "name" : "Council for Prostitution Alternatives",
+    "notes" : "Helping women escape the sex trade. A drop-in center and safe environment where women meet with staff to explore alternatives to prostitution, receive counseling, and advcacy.",
+    "phone" : "971-275-5271",
+    "url" : "http://www.prostitutionalternatives.org",
+    "zip" : "97215"
+  }, {
+    "address" : "230 NE 2nd Ave.",
+    "city" : "Hillsboro",
+    "hours" : "Mon.-Fri., 9a.m.=5p.m.",
+    "notes" : "Provides grief support groups for children ages 3-18 and young adults ages 19-30 and their families who have experienced the death of a parent, sibling or a significant person in their life. Bilingual Spanish groups are provided regardless of ability to pay. Donations welcome.",
+    "phone" : "503-775-5683 (Main Office) 866-775-5683 (Toll Free)",
+    "url" : "http://www.dougy.org",
+    "zip" : "97123"
+  }, {
+    "city" : "Hillsboro",
+    "hours" : "9 a.m. - 5 p.m. Mon-Fri.",
+    "notes" : "Outreach services to victims of family violence; advocacy, education, and counseling. Adults 18 and older who have experienced family violence at any time in their life may enroll after meeting one-on-one with a counselor or advocate for intake appointment.",
+    "phone" : "503-640-5352 Crisis Line 866-469-8600",
+    "url" : "http://www.dvrc-or.org"
+  }, {
+    "address" : "1411 SW Morrison St. Suite 290",
+    "city" : "Portland",
+    "hours" : "8:30a.m.-5:00p.m. Monday-Thursday and 8:30a.m.-4p.m.",
+    "name" : "Elders in Action",
+    "notes" : "Personal advocates for adults age 60+ in the area of housing, health care, crime and elder abuse.",
+    "phone" : "503-235-5474",
+    "url" : "http://www.eldersinaction.org",
+    "zip" : "97205-1945"
+  }, {
+    "address" : "10305 E. Burnside Street",
+    "city" : "Portland",
+    "hours" : "Walk-In 9a-4p, M-F",
+    "name" : "Gateway Center For Domestic Violence",
+    "notes" : "Gateway Center for Domestic Violence Services aims to create a comprehensive, centrally located center for victims of domestic violence and their children for easier accessibility for information, referrals, resources and services.",
+    "phone" : "(503) 988-6400 (9a-4p) (503) 235-5333 24hrs Portland Women's Crisis Line",
+    "url" : "http://www.gatewaycenterdv.org",
+    "zip" : "97216"
+  }, {
+    "address" : "7929 SW Cirrus Dr. Bldg 23",
+    "city" : "Beaverton",
+    "hours" : "8 a.m.- 9 p.m., Mon-Thurs.; 8 a.m.–5 p.m. Fri.; 10 a.m.-3 p.m.",
+    "name" : "Good Samaritan Ministries",
+    "notes" : "Faith base organization providing counseling, teacher training, and lay counselor training. Counseling includes: family, individual, marriage, men's, women's and teen groups and children; anger management and abuse recovery for offenders and victims.",
+    "phone" : "503-644-2339",
+    "url" : "http://www.gsmusa.org",
+    "zip" : "97008"
+  }, {
+    "address" : "900 SE Oak St. Ste. 202",
+    "city" : "Hillsboro",
+    "hours" : "8:30 a.m. – 4:30 p.m. Mon- Fri.",
+    "name" : "Hospice and Palliative Care of Washington County",
+    "notes" : "A home-based program designed to meet the special physical needs of terminally ill patients and their families. Care is provided regardless of ability to pay. Call to set up appointments and nurse visit.",
+    "phone" : "503-648-9565",
+    "url" : "http://www.hospicewc.org",
+    "zip" : "97123"
+  }, {
+    "hours" : "Contact Harold Cubbedge, irontribe@clear.net 9 a.m. - 9 p.m. Monday - Sunday",
+    "name" : "Iron Tribe Support Group",
+    "notes" : "Ex-cons in recovery. Resource referrals, peer support, mentoring and fund-raising events.",
+    "phone" : "503-754-3495 (Bear) 503-431-9182 (Shawn Bower)",
+    "url" : "http://www.IRONTRIBENORTHWEST.org"
+  }, {
+    "address" : "1221 SW Yamhill St. Ste. 301",
+    "city" : "Portland",
+    "hours" : "9 a.m.-5 p.m., Mon.-Thurs.; 9 a.m.-2 p.m., Fri.",
+    "name" : "Jewish Family and Child Services",
+    "notes" : "Individual, family, couples and group counseling, and parent coaching program. Services provided on a sliding scale. Home care for elderly and disabled. 10-minute phone call to assess clients needs.",
+    "phone" : "503-226-7079",
+    "url" : "http://www.jfcs-portland.org",
+    "zip" : "97205-2214"
+  }, {
+    "address" : "905 NE 11th Ave. P.O. Box 6481",
+    "city" : "Portland",
+    "hours" : "Call for hours.",
+    "name" : "Kids Need Both Parents",
+    "notes" : "Counseling and weekly support groups for parents that are breaking up or divorcing and want to be active in their children's lives. Support group meets most monday evenings at 905 NE 11th Ave. from 7:00p.m.-9:00p.m. Please bring photo ID.",
+    "phone" : "503-727-3686",
+    "url" : "http://www.kidsneedbothparents.org",
+    "zip" : "97228-6481"
+  }, {
+    "address" : "729 Molalla Ave. Ste. 8",
+    "city" : "Oregon City",
+    "hours" : "9 a.m. – 5 p.m. Mon-Fri. Best to call first.",
+    "name" : "Men’s Resource Center and Women’s Counseling Center",
+    "notes" : "Anger management for men and women; domestic violence 48-week course with 3 month follow-ups. Alcohol and drug diversion on a sliding scale.",
+    "phone" : "503-235-4732 503-235-3433 (Women) 503-557-0802 (Men)",
+    "url" : "http://www.portlandmrc.com"
+  }, {
+    "address" : "729 Molalla Ave. Ste. 8",
+    "city" : "Oregon City",
+    "hours" : "9 a.m. – 5 p.m. Mon-Fri. Best to call first.",
+    "name" : "Men’s Resource Center and Women’s Counseling Center",
+    "notes" : "Anger management for men and women; domestic violence 48-week course with 3 month follow-ups. Alcohol and drug diversion on a sliding scale.",
+    "phone" : "503-235-4732 503-235-3433 (Women) 503-557-0802 (Men)",
+    "url" : "http://www.portlandmrc.com"
+  }, {
+    "address" : "14025 SW Farmington Rd. Ste. 160",
+    "city" : "Beaverton",
+    "hours" : "9:00a.m.-6:00p.m., Mon.-Fri.",
+    "name" : "Morrison Child and Family Services",
+    "notes" : "Outpatient counseling, including individual, group and family counseling as well as crisis intervention and case management. Se hable espanol.",
+    "phone" : "503-258-4496",
+    "url" : "http://www.morrisonkids.org",
+    "zip" : "97005"
+  }, {
+    "address" : "1515 NE 41st Ave.",
+    "city" : "Portland",
+    "hours" : "Mon.-Thur., 10a-6p; Fri.-Sat., 10a-3p; Open house the second Tue. of month, 10a-1pm",
+    "name" : "Mother and Child Education Center",
+    "notes" : "Free and confidential pregnancy tests, clothing and supplies for pregnancy and nursing mothers. Small classes and workshops learning from both instructors and peers. Open house 2nd Saturday of every month.",
+    "phone" : "503-249-5801 (English) 503-853-4763 (Russian) 503913-9360 (Espanol)",
+    "url" : "http://www.momchildpdx.org",
+    "zip" : "97232"
+  }, {
+    "address" : "1021 SW Fourth Ave. Rm 350",
+    "city" : "Portland",
+    "hours" : "8 a.m.-5 p.m. Monday-Friday",
+    "name" : "Multnomah County Family Court Services",
+    "notes" : "Parent education, family mediation, relationship counseling and child custody evaluations. Not individual counseling.",
+    "phone" : "503-988-3189",
+    "zip" : "97204-1103"
+  }, {
+    "address" : "18680 SW Shaw St.",
+    "city" : "Aloha",
+    "hours" : "Mon.-Sat., 9a.m.-5p.m.; Sun., 2p.m.-3:30p.m. After hours by appointment only.",
+    "notes" : "Support and education to individuals with mental illness or families of youth with mental illness through classes, support groups, referral and advocacy help.",
+    "phone" : "503-356-6835 Family/Consumer Line 800-343-6264 National Number",
+    "url" : "http://www.namiwash.org"
+  }, {
+    "address" : "6200 SE King Road",
+    "city" : "Portland",
+    "hours" : "8 a.m.- 4:30 p.m., Mon.- Fri.",
+    "name" : "Northwest Family Services",
+    "notes" : "Free couples classes, parenting, job readiness and placement, youth programs, healthy relationship education. English and Spanish language services.",
+    "phone" : "503-546-6377",
+    "url" : "http://www.nwfs.org"
+  }, {
+    "address" : "34420 SW Tualatin Valley Hwy.",
+    "city" : "Hillsboro",
+    "hours" : "9 a.m. - 4:00 p.m. , Mon.-Fri. Lunch 12:00p.m.-1:00p.m. daily.",
+    "name" : "Open Door",
+    "notes" : "Mental health and housing counseling for homeless, advocacy, information/referral, food-boxes, day shelter, showers, laundry and community kitchen. No ID required. Boundaries: Cornelious, Banks, Forest Grove and Gaston areas only.",
+    "phone" : "503-640-6268",
+    "url" : "http://www.opendoorcc.net",
+    "zip" : "97123"
+  }, {
+    "address" : "222 SE 8th Ave. Ste 212",
+    "city" : "Hillsboro",
+    "hours" : "Mon.,Wed, Thur, 9a.m.-9p.m.; Fri, 9a.m.-5p.m. Tue. 4 p.m.-9 p.m.",
+    "name" : "Pacific Psychology Clinic-Pacific University",
+    "notes" : "Mental health services- individual, family, child, and group therapy. Also psychological assessments, consultation services after telephone interview and scheduled appointment. Sliding scale fee, $20-$85.",
+    "phone" : "503-352-7333",
+    "url" : "http://www.pscpacific.org",
+    "zip" : "97123"
+  }, {
+    "address" : "615 SW Harrison Portland State University Graduate School of Education",
+    "city" : "Portland",
+    "hours" : "8 a.m.-9 p.m. Mon.-Fri., by appointment only.",
+    "name" : "PSU Community Counseling Clinic",
+    "notes" : "Individual, couple and family counseling. $15 per session, reduced fees negotiated, 10- week committment. Child counseling also available.",
+    "phone" : "503-725-4620",
+    "url" : "http://www.pdx.edu/sped-coun/counseling_clinic.html",
+    "zip" : "97201-3548"
+  }, {
+    "address" : "1827 NE 44th Ave. Suite 300",
+    "city" : "Portland",
+    "hours" : "9:00a.m.-4:00p.m., Mon.-Wed.; 9:00a.m.-3:00p.m., Thurs., Reception is closed on Fri.",
+    "name" : "Resolutions Northwest",
+    "notes" : "Neighborhood and interpersonal issues. No- and low-cost resolution services. Classes for mediation and conflict resolution, Spanish outreach, sliding scale.",
+    "phone" : "503-595-4890",
+    "url" : "http://www.resolutionsnorthwest.org/",
+    "zip" : "97213-1443"
+  }, {
+    "address" : "627 NW 18th Ave",
+    "city" : "Portland",
+    "hours" : "9 a.m.- 12 p.m., Mon, Tues and Wed, Thurs. 9:30a-11:30a. Advocacy by appointment Tuesday",
+    "name" : "Rose Haven",
+    "notes" : "Women only: Assistance with referral for health care, nutrition, hygiene and clothing, advocacy services for housing and legal aid. Mailing address and voice mail.",
+    "phone" : "503-248-6364 (Calls accepted from 8a.m.-4:30p.m.)",
+    "url" : "http://www.rosehaven.moonfruit.com",
+    "zip" : "97209"
+  }, {
+    "address" : "4900 SW Griffith Dr. Ste. 100",
+    "city" : "Beaverton",
+    "hours" : "10 a.m.- 4 p.m., Monday-Friday",
+    "name" : "Sexual Assault Resource Center (SARC)",
+    "notes" : "Provides immediate 24hr response and support to sexually assaulted survivors. Case management, education and outreach programs, support groups and free mental health services. Se hable Espanol.",
+    "phone" : "503-640-5311(Crisis Line) 24hrs 503-626-9100 (Office)",
+    "url" : "http://www.sarcoregon.org",
+    "zip" : "97005-4649"
+  }, {
+    "address" : "150 SE 80th Ave.",
+    "city" : "Portland",
+    "hours" : "9 a.m.-9 p.m., Mon.-Thurs.",
+    "name" : "Sunnyside Counseling Center",
+    "notes" : "Service clients 6 years and older. Depression, family and relationship counseling. $25 processing fee and sliding scale for remainder of care. Personality inventories at intake.",
+    "phone" : "503-257-7572",
+    "zip" : "97215-1522"
+  }, {
+    "address" : "909 NW 24th Alano Club",
+    "city" : "Portland",
+    "hours" : "6-7:15 p.m., Wednesdays",
+    "name" : "Survivors of Incest Anonymous",
+    "notes" : "12-step support group.",
+    "phone" : "503-222-5756",
+    "url" : "http://www.portlandalano.org",
+    "zip" : "97210-3009"
+  }, {
+    "address" : "155 N. 1st. Ave. Suite 250",
+    "city" : "Hillsboro",
+    "hours" : "Call for specific hours.",
+    "name" : "Washington County Alcohol/Drug/Gambling Addiction Services",
+    "notes" : "Washington County's alcohol/drug/gambling/addiction program provides referrals to treatment, educational materials, presentations concerning addictions and information on treatment options in the county.",
+    "phone" : "503-846-4903 (Gambling and Addiction) 503-291-9111 (Washington County Crisis Line)",
+    "url" : "http://www.co.washington.or.us/HHS/Addiction/index.cfm"
+  }, {
+    "address" : "150 N First Ave. 1st Floor Victim’s Services",
+    "city" : "Hillsboro",
+    "hours" : "8:30 a.m–4 p.m. Mon.-Fri.",
+    "notes" : "Center for Victim Services offers assistance to survivors of crime and trauma, including individual, family and group counseling; information sessions for victims.",
+    "phone" : "503-846-3724 (Counseling Line)",
+    "zip" : "97124"
+  }, {
+    "address" : "2901 E. Burnside St. at the Quest Center for Integrated Health",
+    "city" : "Portland",
+    "hours" : "9am-12pm on Monday, 4-7 p.m. on Wednesday",
+    "name" : "Women of Wisdom",
+    "notes" : "Peer and community support for women living with HIV/AIDS. Clothing night for women and children once a month. Provide two meals a week. Massage and acupuncture once a week, by appointment.",
+    "phone" : "503-238-5203",
+    "zip" : "97214-1831"
+  }, {
+    "address" : "447 SE Baseline St.",
+    "city" : "Hillsboro",
+    "hours" : "9 a.m.–5 p.m. Mon.-Fri. Evening hours by appointment only.",
+    "name" : "Youth Contact",
+    "notes" : "Counseling services focusing on alcohol, drugs and dependence issues. Beaverton and Hillsboro youths (up to age 18) and their family, call or come in for intake; OHP and some private insurance accepted. Se hable espanol.",
+    "phone" : "503-640-4222",
+    "url" : "http://www.youthcontact.org",
+    "zip" : "97123"
+  } ],
+  "dental" : [ {
+    "hours" : "8 a.m.-4 p.m., Mon. - Fri.",
+    "name" : "Dental Access Program",
+    "notes" : "Routine and urgent dental care for OHP multicare dental coverage only. Screening same as primary care services. Must meet income guidelines. Fees on sliding scale based on family size and income. Call for new patient appointments and referral to community clinics.",
+    "phone" : "503-988-6942",
+    "source" : "/resources/health-care/1169",
+    "title" : "Dental Access Program",
+    "url" : "http://www.rosecityresource.org/resources/health-care/1169"
+  }, {
+    "name" : "Dental Care",
+    "notes" : "Medical Teams international Dental Van offers services at various locations throughout Portland. Must call specific locations for referral and scheduling.",
+    "source" : "/resources/multnomah-county-resources/2085",
+    "title" : "Dental Care",
+    "url" : "http://www.rosecityresource.org/resources/multnomah-county-resources/2085"
+  }, {
+    "address" : "4701 SE Bush",
+    "hours" : "Open school days only, 8:30 a.m.-3:30 p.m. Closed summers.",
+    "name" : "Friends of Creston Dental Children's Clinic",
+    "notes" : "Assistance League of Portland Dental Center at Creston School: Urgent and routine care for K-12 only. Must be in Portland Public Schools, receive free/reduced lunch and have no dental insurance. Call for appointment. $10 suggested donation.",
+    "phone" : "503-916-5808",
+    "source" : "/resources/health-care/1213",
+    "title" : "Friends of Creston Dental Children&#039;s Clinic",
+    "url" : "http://www.rosecityresource.org/resources/health-care/1213"
+  }, {
+    "hours" : "Mon-Fri 8a.m.-5p.m.",
+    "name" : "Multnomah County Dental Clinics",
+    "notes" : "Routine and urgent dental care for OHP multicare dental coverage only. Call for new patient appointments and referral to one of several community clinics. Various locations.",
+    "phone" : "503-988-3711",
+    "source" : "/resources/1218",
+    "title" : "Multnomah County Dental Clinics",
+    "url" : "http://www.coalitionclinics.org/dental-resources.html"
+  }, {
+    "address" : "611 SW Campus Dr.",
+    "hours" : "8 a.m. - 4:45 p.m., Mon.-Thurs.; 8 a.m.- 4 p.m., Fri.",
+    "name" : "OHSU School of Dentistry",
+    "notes" : "Call one day in advance at 8 a.m. for urgent care. Reduced fee, due at time of service (approximately 30 percent of private fees). Urgent care up to $216.00. Small clinic, limited availability.",
+    "phone" : "503-494-8867",
+    "source" : "/resources/dental/1567",
+    "title" : "OHSU School of Dentistry",
+    "url" : "http://www.rosecityresource.org/resources/dental/1567"
+  }, {
+    "address" : "214 N Russell St.",
+    "hours" : "7:45 a.m.-5:00p.m., Monday-Friday; Sat. 8a.m.-1p.m. Walk in emergencies with $100-$200 due at time of service.",
+    "name" : "Project Dental Health",
+    "notes" : "Low-cost dental program for insured and uninsured people, including patients with HIV/AIDS. Proof of income requested. Sliding fee scale for enrolled patients. $59 for emergencies, plus additional costs for services $96-166 per tooth.",
+    "phone" : "503-494-6822",
+    "source" : "/resources/1222",
+    "title" : "Project Dental Health",
+    "url" : "http://www.rosecityresource.org/resources/1222"
+  } ],
+  "employment" : [ {
+    "address" : "3711 NE MLK Jr. Blvd.",
+    "city" : "Portland",
+    "name" : "Better People",
+    "notes" : "Helps people with legal histories find and retain jobs. Recently released and current parole participants have access to classes on interviewing skills and job application preparation. Downstairs through the Workforce One-Stop office.",
+    "phone" : "503-281-2663",
+    "url" : "http://www.betterpeople.org"
+  }, {
+    "address" : "2 NW 2nd Ave.",
+    "city" : "Portland",
+    "hours" : "7:30 a.m.-6 p.m; Monday-Thursday, 7:30a.m.-5p.m; Fridays. Orientation 9:45 a.m., Tuesdays; 1:45 p.m. Thursdays.",
+    "name" : "CCC Employment Access Center",
+    "notes" : "Provides employment workshops, job resource center, daily job announcements, career advancement and training services, employment-related housing and veterans' services, among others. Enroll to learn interviewing skills and prepare for job searches.",
+    "phone" : "503-226-7387",
+    "url" : "http://www.centralcityconcern.org",
+    "zip" : "97209-3902"
+  }, {
+    "address" : "3945 SE Powell Blvd.",
+    "city" : "Portland",
+    "hours" : "8 a.m.-5 p.m, Monday-Friday.",
+    "name" : "Central Portland Vocational Rehabilitation Division",
+    "notes" : "Our program is an employment program for people with disabilities who are interested in going to work. General orientation for new clients held 1:30 p.m. every Tuesday.",
+    "phone" : "971-673-2555",
+    "url" : "http://www.oregon.gov/dhs/vr",
+    "zip" : "97202-1721"
+  }, {
+    "address" : "19600 S Molalla Ave",
+    "city" : "Oregon City",
+    "hours" : "Call for hours.",
+    "name" : "Clackamas Community College Career Center",
+    "notes" : "Career Center.",
+    "phone" : "503-657-6958 x 2409",
+    "zip" : "97045"
+  }, {
+    "address" : "19600 S Molalla Ave",
+    "city" : "Oregon City",
+    "hours" : "Call for hours.",
+    "name" : "Clackamas Community College WIA Program",
+    "notes" : "WIA Program.",
+    "phone" : "503-657-6958 x 2163",
+    "zip" : "97045"
+  }, {
+    "address" : "4950 NE Martin Luther King Jr. Blvd.",
+    "city" : "Portland",
+    "hours" : "8 a.m.-5 p.m, Monday-Friday. Please Call for an Appointment.",
+    "name" : "DePaul Industries",
+    "notes" : "Temporary staffing service specializing in employing the disabled or people in recovery. All are welcome. The programs are individualized and can accommodate those with special needs, including hearing impairment and visual impairment. Employment options for people with all kinds of disabilities, including injury and illness related disabilities. Security and clerical job training and placements.",
+    "phone" : "503-281-1289",
+    "url" : "http://www.depaulindustries.com",
+    "zip" : "97211-3354"
+  }, {
+    "address" : "1532 NE 37th Ave.",
+    "city" : "Portland",
+    "hours" : "By Referral only. See website/Call for referring agency.",
+    "name" : "Dress For Success",
+    "notes" : "Resources and support to help low income women successfully enter the workforce. We offer professional clothing for job interviews and the workplace, and assistance with resume preparation and job search in our career center. Once employed, we provide retention resources, training and mentoring through our Professional Women's Group.",
+    "phone" : "(503) 249-7300",
+    "url" : "http://www.dressforsuccessoregon.org",
+    "zip" : "97232"
+  }, {
+    "address" : "3715 SE Cesar Chavez Blvd. Suite 300C",
+    "city" : "Portland",
+    "hours" : "Mon.-Fri.; 8:30a.m.-5:00p.m.",
+    "name" : "Easter Seals Latino Connection Program",
+    "notes" : "Vocational rehabilitation services, including employment for Latinos with disabilities, ESL and computer classes in Spanish, job development and job placement; translation and interpretation, resume and interview workshops; ESL support and referral.",
+    "phone" : "503-335-6161",
+    "url" : "http://www.or.easterseals.com",
+    "zip" : "97202"
+  }, {
+    "address" : "10011 SE Divison St Suite 101",
+    "city" : "Portland",
+    "hours" : "8:30a.m.-4:30p.m., Mon.-Fri.",
+    "name" : "Easter Seals Senior Community Services Employment Program",
+    "notes" : "Senior community service employment program for persons aged 55+. Supports include; money management program, post-stroke support group, therapy pool, summer camp for disabled children and adults.",
+    "phone" : "503-228-5108",
+    "url" : "http://www.or.easterseals.com",
+    "zip" : "97266"
+  }, {
+    "address" : "5251 NE Glisan St. #A-203",
+    "city" : "Portland",
+    "hours" : "Call for appointment and intake.",
+    "notes" : "Employment assistance for people diagnosed with epilepsy. Call for appointment for intake meeting.",
+    "phone" : "503-228-7651",
+    "url" : "http://www.epilepsynw.org",
+    "zip" : "97213"
+  }, {
+    "address" : "1737 NW 26th Ave.",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.- 5:00 p.m. Mon-Fri.",
+    "name" : "Friendly House",
+    "notes" : "Housing assistance, case management, art therapy classes, referrals and information related to job training and more",
+    "phone" : "503-228-4335",
+    "url" : "http://www.friendlyhouseinc.org",
+    "zip" : "97209-1213"
+  }, {
+    "address" : "1943 SE 6th Ave.",
+    "city" : "Portland",
+    "hours" : "Call for appointments 8 a.m. or 4 p.m, Monday-Friday.",
+    "name" : "Goodwill Job Connection",
+    "notes" : "Jobs available at stores or donation centers, and free employment service in the community.",
+    "phone" : "503-239-1734; 1-877-676-5872",
+    "url" : "http://www.meetgoodwill.org"
+  }, {
+    "hours" : "Hours: 9a.m.-5p.m.",
+    "name" : "Human Solutions-Living Solutions",
+    "notes" : "Living Solutions offers employment training for low-income families in Gresham. Services include: GED preparation classes, assists with work searches, resume building; participants receive job coaching and career training. Call for eligibility pre-screen. Orientation is required and available. Services available in English/Spanish.",
+    "phone" : "(503) 548-0270",
+    "url" : "http://www.humansolutions.org"
+  }, {
+    "address" : "1130 SW Morrison Suite 240",
+    "city" : "Portland",
+    "hours" : "8am-5pm Mon-Fri",
+    "name" : "Job Corps",
+    "notes" : "Job Corps provides hands-on career training for 30 trades for economically disadvantaged young adults 16-24. Students can also complete their GED and receive their high school diploma at the Center. Residential training program, food, clothing; informational meeting every Tue.",
+    "phone" : "503-326-6800",
+    "url" : "http://www.jobcorps.gov",
+    "zip" : "97205-2215"
+  }, {
+    "address" : "5312 NE 148th Ave.",
+    "city" : "Portland",
+    "hours" : "hours:8 a.m.-5 p.m, Monday-Friday.",
+    "name" : "Portland Habilitation Center Northwest",
+    "notes" : "Training and employment in janitorial, landscape and clerical work. Opportunities for disabled people. An equal opportunity employer. Low-cost apartments available.",
+    "phone" : "503-261-1266 Job Hotline 503-408-3014",
+    "url" : "http://www.phcnw.com",
+    "zip" : "97230-3438"
+  }, {
+    "address" : "2101 NE Flanders St.",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.-4:30 p.m, Monday-Friday.",
+    "name" : "Senior Community Service Employment Program",
+    "notes" : "A Title V training program free for senior citizens 55 and older. Promotes older workers as a solution for businesses seeking a trained, qualified, and reliable workforce. Facilitates economic self-sufficiency for older individuals and their families who are working.",
+    "phone" : "503-232-7684",
+    "url" : "http://www.doleta.gov/seniors",
+    "zip" : "97232-2811"
+  }, {
+    "address" : "241 SW Edgeway Drive",
+    "city" : "Beaverton",
+    "hours" : "Call for hours.",
+    "name" : "State of Oregon Employment Offices",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Gresham office (19421 SE Stark) 503-669-7112, Transit 20 Max Blue; Portland office (30 N Webster Suite E) 503-280-6046, Transit 4, 44; Tualaton Office (7995 SW Mohawk) 503-612-4200, Transit 76, 96; Beaverton/Hillsboro Office (241 SW Edgeway Drive) 503-526-2700. Portland Columbia Metro Express Center (1410 N. Trenton St) 503-943-5600, Transit 4, 44. SE Foster Work Source Center (6927 SE Foster Rd.) 503-772-2300 Transit 10, 14.",
+    "url" : "http://www.employment.oregon.gov",
+    "zip" : "97006"
+  }, {
+    "address" : "19421 SE Stark St.",
+    "city" : "Portland",
+    "hours" : "Call for hours.",
+    "name" : "State of Oregon Employment Offices",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Gresham office (19421 SE Stark) 503-669-7112, Transit 20 Max Blue; Portland office (30 N Webster Suite E) 503-280-6046, Transit 4, 44; Tualaton Office (7995 SW Mohawk) 503-612-4200, Transit 76, 96; Beaverton/Hillsboro Office (241 SW Edgeway Drive) 503-526-2700. Portland Columbia Metro Express Center (1410 N. Trenton St) 503-943-5600, Transit 4, 44. SE Foster Work Source Center (6927 SE Foster Rd.) 503-772-2300 Transit 10, 14.",
+    "url" : "http://www.employment.oregon.gov",
+    "zip" : "97233-5754"
+  }, {
+    "address" : "30 N Webster Suite E.",
+    "city" : "Portland",
+    "hours" : "Call for hours.",
+    "name" : "State of Oregon Employment Offices",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Gresham office (19421 SE Stark) 503-669-7112, Transit 20 Max Blue; Portland office (30 N Webster Suite E) 503-280-6046, Transit 4, 44; Tualaton Office (7995 SW Mohawk) 503-612-4200, Transit 76, 96; Beaverton/Hillsboro Office (241 SW Edgeway Drive) 503-526-2700. Portland Columbia Metro Express Center (1410 N. Trenton St) 503-943-5600, Transit 4, 44. SE Foster Work Source Center (6927 SE Foster Rd.) 503-772-2300 Transit 10, 14.",
+    "url" : "http://www.employment.oregon.gov",
+    "zip" : "97217-2767"
+  }, {
+    "address" : "211 NW Davis United States",
+    "city" : "Portland",
+    "name" : "Street Roots",
+    "notes" : "Immediate job opportunities through vendor program. Orientations 1 p.m., Mon., Wed. and Fri.",
+    "phone" : "503-228-5657",
+    "url" : "http://www.streetroots.org",
+    "zip" : "97209"
+  }, {
+    "address" : "240 NE MLK Jr. Blvd.,",
+    "city" : "Portland",
+    "hours" : "7a.m.-2p.m., Mon.-Sat.",
+    "notes" : "VOZ Workers’ Rights Education Project is a worker-led organization that empowers immigrants and day laborers to gain control over their working conditions. VOZ operates at Martin Luther King, Jr. Worker Center, which finds hundreds of workers a month jobs for local homeowners and small businesses. To find work through the Worker Center, please arrive by 7:00 a.m. for paperwork and raffle. Work is assigned by raffle for general labor and requests for specializations.",
+    "phone" : "503-234-2043 (Worker Center) 503-233-6787 (Admin)",
+    "url" : "http://portlandvoz.org/",
+    "zip" : "97232"
+  }, {
+    "address" : "506 High Street",
+    "city" : "Oregon City",
+    "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
+    "name" : "WorkSource Oregon Employment Department",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Clackamas One Stop Center: 971-673-6400; Portland Metro/Hillsboro: 503-681-0219; Portland Metro/Tualatin: 503-612-4200 Ext. 4568",
+    "url" : "http://www.worksourceoregon.org/",
+    "zip" : "97045"
+  }, {
+    "address" : "265 SE Oak St Suite A",
+    "city" : "Hillsboro",
+    "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
+    "name" : "WorkSource Oregon Employment Department",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Clackamas One Stop Center: 971-673-6400; Portland Metro/Hillsboro: 503-681-0219; Portland Metro/Tualatin: 503-612-4200 Ext. 4568",
+    "url" : "http://www.worksourceoregon.org/",
+    "zip" : "97123"
+  }, {
+    "address" : "7995 SW Mohawk St",
+    "city" : "Tualatin",
+    "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
+    "name" : "WorkSource Oregon Employment Department",
+    "notes" : "Oregon labor market information system and job search database.",
+    "phone" : "Clackamas One Stop Center: 971-673-6400; Portland Metro/Hillsboro: 503-681-0219; Portland Metro/Tualatin: 503-612-4200 Ext. 4568",
+    "url" : "http://www.worksourceoregon.org/",
+    "zip" : "97062"
+  }, {
+    "address" : "26000 SE Stark St.",
+    "city" : "Gresham",
+    "hours" : "8 a.m.-5 p.m., Tuesday-Friday, 9 a.m.-5 p.m. Monday; Lunch, noon-1 p.m.",
+    "name" : "Youth Employability Support Services (YESS)",
+    "notes" : "Helps youth find work, acquire skills, and finish GED program. Ages 16-21 only.",
+    "phone" : "503-491-7641",
+    "url" : "http://www.mhcc.edu",
+    "zip" : "97030-3300"
+  } ],
+  "healthcare" : [ {
+    "address" : "421 SW Oak St. Ste. 510",
+    "city" : "Portland",
+    "name" : "Aging and Disability Services",
+    "notes" : "Provides information assistance and all services to support all seniors and people with disabilities and their caregivers in asses their needs. Identify services available for meeting their needs and linking the person/caregiver to those services.",
+    "phone" : "503-988-3646",
+    "url" : "http://www.adrcoforegon.org",
+    "zip" : "97204-1810"
+  }, {
+    "address" : "621 SW Alder St. Suite 520",
+    "city" : "Portland",
+    "hours" : "9a-6:30p, M-Thurs; 9a-5p, Friday.",
+    "notes" : "Monday-Friday. Drug and alcohol treatment, free gambling treatment program, mental health services.",
+    "phone" : "503-494-4745",
+    "url" : "http://www.ohsuhealth.com/counseling",
+    "zip" : "97205-3620"
+  }, {
+    "address" : "4212 SE Division St.",
+    "city" : "Portland",
+    "hours" : "7 a.m.-10:00 p.m. 7 days a week.",
+    "name" : "Cascadia Urgent Walk-in Clinic/Referral service",
+    "notes" : "Mental health services for adults, children, and families; walk-ins welcome. Access information and referral line for Cascadia's services in housing, recovery and assistance.",
+    "phone" : "503-674-7777",
+    "url" : "http://www.cascadiabhc.org",
+    "zip" : "97206-1600"
+  }, {
+    "address" : "10300 SW Eastridge St",
+    "city" : "Beaverton",
+    "hours" : "Call for Assessment.",
+    "name" : "Cedar Hills Hospital",
+    "notes" : "Cedar Hills Hospital is a private psychiatric hospital specializing in the treatment of mental health and chemical dependency. Cedar Hills provides Inpatient, Partial Hospitalization and Intensive Outpatient Programs. All major insurance, Medicare & TRICARE are accepted. FREE Confidential Assessment 24/7.",
+    "phone" : "503-944-5000 Local 877-703-8880 Toll Free",
+    "url" : "http://www.cedarhillshospital.com",
+    "zip" : "97225"
+  }, {
+    "address" : "27 NE Killingsworth St.",
+    "city" : "Portland",
+    "hours" : "Our hours are Mon-Fri., 9:00 to 5:00. We have physicians 5 days per week. Appointments are scheduled from 9:00 to 3:30. Walk-ins are available on Tuesdays, Thursdays, and Fridays.",
+    "name" : "Children's Community Clinic",
+    "notes" : "Health center for low income families. Sliding scale to age 21 only, for the under/uninsured only. Accepts Oregon Health Plan and other insurance.",
+    "phone" : "503-284-5239",
+    "url" : "http://www.childrenscommunityclinic.org",
+    "zip" : "97211-2623"
+  }, {
+    "address" : "8800 SE 80th (at Cornwell, next to Johnson Creek Fred Meyer)",
+    "city" : "Portland",
+    "hours" : "1-4:30 p.m. Tue & Thurs.",
+    "name" : "Clackamas Service Center",
+    "notes" : "Outside-in health van.",
+    "phone" : "503-771-7914",
+    "url" : "http://www.clackamas.us/socialservices/rguide/ccss0070aa.html",
+    "zip" : "97206"
+  }, {
+    "hours" : "Hours: 8:30 a.m.-5 p.m. Mon.-Fri",
+    "name" : "Coalition of Community Clinics",
+    "notes" : [ "Multiple locations", "Information and/or referral for community health clinics in Portland metro area. Please call or visit website to recieve more infomation." ],
+    "phone" : "503-546-4991",
+    "url" : "http://www.coalitionclinics.org"
+  }, {
+    "hours" : "Transition Projects Inc.: 435 NW Glisan, 1:30-3 p.m., Monday New Avenues for Youth: 314 SW 9th Ave. 8:30 a.m.-12:30 p.m. Tuesdays 12:30-4:30 Thursdays Salvation Army: 131 SW Ankeny, 1:15 p.m.-3:15 p.m. Wednesday. Greenhouse: 820 SW Oak, youth only, 3:30 p.m.-5:30 p.m., Wednesday.",
+    "name" : "County Health Nurse",
+    "notes" : "Itinerant on-site medical care specifically for TB screening; flu, pneumonia, and tetanus vaccinations. Available to clients at various locations."
+  }, {
+    "address" : "511 SW 10th Ave #905",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.-5 p.m. Mon.-Fri.; 8 a.m.-2 p.m. Sat.",
+    "name" : "Downtown Women's Center",
+    "notes" : "Free pregnancy testing, abortions, counseling; parental consent needed for persons under 15. Birth control options counseling; Emergency contraception is also available at the clinic.",
+    "phone" : "503-224-3435",
+    "url" : "http://www.downtownwomenscenter.com",
+    "zip" : "97205-2710"
+  }, {
+    "address" : "266 W Main St.",
+    "city" : "Hillsboro",
+    "hours" : "Hillsboro: 5 p.m. Mon and Thurs; Tigard: 5 p.m. Wed",
+    "name" : "Essential Health Clinic",
+    "notes" : "Offers free urgent health care to uninsured and/or low income individuals and families in Washington County. Walk-in patients accepted three times a week at the two locations and medical services provided free of charge. Se hable espanol.",
+    "phone" : "503-846-4919",
+    "url" : "http://www.essentialhealthclinic.org",
+    "zip" : "97123"
+  }, {
+    "hours" : "Hillsboro: 5 p.m. Mon and Thurs; Tigard: 5 p.m. Wed",
+    "name" : "Essential Health Clinic",
+    "notes" : "Offers free urgent health care to uninsured and/or low income individuals and families in Washington County. Walk-in patients accepted three times a week at the two locations and medical services provided free of charge. Se hable espanol.",
+    "phone" : "503-846-4919",
+    "url" : "http://www.essentialhealthclinic.org"
+  }, {
+    "address" : "18000 SE Stark St",
+    "city" : "Portland",
+    "hours" : "Call for hours.",
+    "name" : "Good News Community Health Center",
+    "notes" : "Blood pressure screening, prescription assistance, and diabtes clinic. Uninsured Clackamas residents welcome.",
+    "phone" : "503-489-0567",
+    "zip" : "97233"
+  }, {
+    "address" : "315 SW 4th Ave.",
+    "city" : "Portland",
+    "hours" : "Mon-Fri. 7:30 a.m. - 7 p.m., Closed 12:30- 2 p.m. Last appointment at 6 p.m.",
+    "name" : "Health Centers of UWS",
+    "notes" : "Sliding fee services by interns.",
+    "phone" : "503-223-2213",
+    "url" : "http://www.uws.edu"
+  }, {
+    "address" : "6736 NE Killingsworth (Baltazar Oritz Community Center)",
+    "city" : "Portland",
+    "hours" : "Baltazar Ortiz Community Center: 6736 NE Killingsworth, 1st Thursday, 11a.m.-1p.m.",
+    "name" : "Josiah Hill III Clinic",
+    "notes" : "Lead poisoning prevention counseling and free testing for children under 6 and nursing and pregnant mothers. Education and resources for families with small children living in any dwellings. Mobile blood lead testing available. For Schedule of clinics please go to the web site.",
+    "phone" : "503-802-7389",
+    "url" : "http://www.jhillclinic.org",
+    "zip" : "97218"
+  }, {
+    "address" : "77 NE Knott (Matt Dishman Community Center)",
+    "city" : "Portland",
+    "hours" : "Baltazar Ortiz Community Center: 6736 NE Killingsworth, 1st Thursday, 11a.m.-1p.m.",
+    "name" : "Josiah Hill III Clinic",
+    "notes" : "Lead poisoning prevention counseling and free testing for children under 6 and nursing and pregnant mothers. Education and resources for families with small children living in any dwellings. Mobile blood lead testing available. For Schedule of clinics please go to the web site.",
+    "phone" : "503-802-7389",
+    "url" : "http://www.jhillclinic.org",
+    "zip" : "97212"
+  }, {
+    "address" : "1200 NW 23nd Ave.",
+    "city" : "Portland",
+    "hours" : "8 a.m. to 5 p.m. Monday-Friday.",
+    "name" : "Legacy Clinic at Good Samaritan",
+    "notes" : "General medicine, diabetes and pre/post surgery consultations by referral only. No pediatrics or obstetrics. Appointment only. Financial assistance availble to those who qualify.",
+    "phone" : "503-413-7074",
+    "url" : "http://www.lhs.org",
+    "zip" : "97210-2906"
+  }, {
+    "hours" : "24-hour hotline.",
+    "name" : "Multnomah County Call Center",
+    "notes" : "24-hour, mental health resource and information referral, crisis support and mental health emergency assistance throughout Multnomah County. Mental health assistance and referral through Project Respond.",
+    "phone" : "503-988-4888, 800-716-9769"
+  }, {
+    "address" : "15 N. Morris St.",
+    "city" : "Portland",
+    "hours" : "8 a.m.-5 p.m. Monday-Friday; Evening medical clinic, 8a.m.-7:30p.m.",
+    "name" : "NARA Indian Health Clinic",
+    "notes" : "Full service medical clinic, free to tribal members and descendents (others by sliding scale, $20 min).",
+    "phone" : "503-230-9875",
+    "url" : "http://www.naranorthwest.org/clinic.htm",
+    "zip" : "97227-1541"
+  }, {
+    "address" : "3030 Martain Luther King Jr. Blvd.",
+    "city" : "Portland",
+    "hours" : "5:30-8:30 p.m. Thursday.",
+    "name" : "North by Northeast Community Health",
+    "notes" : "Serves North and inner Northeast Portland. Health services (health history review, blood pressure screening, acute care for minor illness and injures) for low-income, uninsured adult residents of the 97211, 97212, 97217, 97227 and 97203 zip codes.",
+    "phone" : "503-287-4932",
+    "url" : "http://www.nxneclinic.org",
+    "zip" : "97212"
+  }, {
+    "address" : "621 SW Alder St. Suite 520",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.-5 p.m., Monday-Friday",
+    "name" : "OHSU Behavioral Health Clinic",
+    "notes" : "Outpatient psychiatry, drug and alcohol counseling and treatment, sliding scale fee.",
+    "phone" : "503-494-4745",
+    "url" : "http://www.ohsu.edu",
+    "zip" : "97205-3620"
+  }, {
+    "address" : "727 W Burnside St.",
+    "city" : "Portland",
+    "hours" : "8:00 am - 9:00 pm M-F primary care, 5-9 M-F and 1-5 Sat for urgent care.",
+    "name" : "Old Town Clinic",
+    "notes" : "Primary health care with integrated mental health services. Clinic open to new patients, OHP or Medicare. Sliding scale for qualified clients.",
+    "phone" : "503-228-4533",
+    "url" : "http://www.centralcityconcern.org/oldtown.htm",
+    "zip" : "97209-3514"
+  }, {
+    "address" : "P.O. Box 10054",
+    "city" : "Portland",
+    "hours" : "7:00a.m.-6:00p.m., Mon.-Fri.",
+    "notes" : "Provides transportation to medical, counseling and dental appointments for OHP clients. Call ahead. OHP Client Advocate Services: 1-800-273-0557",
+    "phone" : "503-802-8700",
+    "url" : "http://www.oregon.gov/DHS/healthplan/",
+    "zip" : "97210"
+  }, {
+    "hours" : ": 8 a.m.-6 p.m. Mon.-Fri.",
+    "name" : "Oregon Safenet",
+    "notes" : "Referral services for health care, social, and mental health services.",
+    "phone" : "1-800-723-3638"
+  }, {
+    "address" : "1132 SW 13th Ave.",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.-until full; Monday-Friday; additional 5:30 p.m. Monday and Wednesday until full. Every 2nd Tues. of month open at 12:00 noon.",
+    "name" : "Outside In",
+    "phone" : "503-535-3800",
+    "url" : "http://www.outside-in.org",
+    "zip" : "97205-1703"
+  }, {
+    "address" : "5525 SE Milwaukie Blvd.",
+    "city" : "Portland",
+    "hours" : "9 a.m.-5 p.m. Monday-Friday.",
+    "name" : "Partnership Project",
+    "notes" : "HIV case management, advice on healthy options for prevention; risk reduction services. Referrals or help in coordinating medical, mental health and other social service systems.",
+    "phone" : "503-230-1202, referrals 503-517-3590",
+    "url" : "http://www.ohsu.edu/partnership",
+    "zip" : "97202-4915"
+  }, {
+    "address" : "12220 SW First Suite 200",
+    "city" : "Beaverton",
+    "hours" : "8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
+    "name" : "Planned Parenthood Beaverton Health Center",
+    "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
+    "phone" : "503-788-7273 / 1-888-576-PLAN (7526)",
+    "url" : "http://www.plannedparenthood.org/health-center/centerDetails.asp?f=2410",
+    "zip" : "97005"
+  }, {
+    "address" : "3727 NE Martin Luther King Jr. Blvd.",
+    "city" : "Portland",
+    "hours" : "Mon & Wed.;8:30 a.m.–6:30 p.m.; Tue., Thur., Fri & Sat 8:30 a.m.–4:30 p.m.; Sun Closed. Beaverton Health Center-12220 SW First, Suite 200: 8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
+    "name" : "Planned Parenthood NE",
+    "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
+    "phone" : "503-788-7273 / 1-888-576-PLAN (7526)",
+    "url" : "http://www.ppcw.org",
+    "zip" : "97212"
+  }, {
+    "address" : "3231 SE 50th Ave",
+    "city" : "Portland",
+    "hours" : "SE Clinic Mon. 8:30 a.m.-5:00 p.m; Tue & Thu 9:30 a.m.-6:00 p.m.; Wed 7:30 a.m.-5:00 p.m.; Fri.-Sun. 8:30 a.m. – 5:00 p.m. Beaverton Health Center-12220 SW First, Suite 200: 8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
+    "name" : "Planned Parenthood SE",
+    "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
+    "phone" : "503-788-7273, 888-576-PLAN (7526)",
+    "url" : "http://www.ppcw.org",
+    "zip" : "97206"
+  }, {
+    "address" : "11020 NE Halsey Blvd.",
+    "city" : "Portland",
+    "hours" : "9 a.m.-Noon., Monday-Friday;",
+    "name" : "Portland Adventist Community Services",
+    "phone" : "503-252-4589",
+    "url" : "http://www.portlandacs.org",
+    "zip" : "97220-3051"
+  }, {
+    "address" : "2901 E Burnside",
+    "city" : "Portland",
+    "hours" : "Monday-Friday 8:30 a.m. - 5 p.m.",
+    "name" : "Quest Center for Integrative Health",
+    "notes" : "Mental health services, osteopathic doctor on-site, support groups, yoga and meditation classes, community groups, naturopath and massage therapy.",
+    "phone" : "503-238-5203",
+    "url" : "http://www.quest-center.org",
+    "zip" : "97214-1831"
+  }, {
+    "address" : "30 SW 2nd Ave.",
+    "city" : "Portland",
+    "hours" : "Harbor Lights hours: 1:15 p.m. - 3:15 p.m. Monday, Wednesday, and Friday; Mobile Medical Van hours: 1:15 p.m. - 3:15 p.m. Thursday.",
+    "name" : "Salvation Army",
+    "phone" : "503-239-1264",
+    "url" : "http://www.tsacascade.org",
+    "zip" : "97204"
+  }, {
+    "address" : "4585 SW 185th Ave.",
+    "city" : "Aloha",
+    "hours" : "Call for Hours.",
+    "name" : "Sequoia Mental Health Services",
+    "notes" : "SMHS is based in Beaverton, Oregon and serves adults with severe and persistent mental illness in Washington County. Services provided by SMHS are funded through a variety of public funds including Medicaid, OHP, Medicare and some commercial insurance. Services can include Individual/Group Therapy, Family Education/Therapy, Case Management : Intensive Community Outreach, Alcohol and Drug Treatment, Psychiatric Medication Management, and Supported Employment.",
+    "phone" : "For intakes and referrals call 503-591-9280 x214.",
+    "url" : "http://sequoiamhs.org",
+    "zip" : "97005"
+  }, {
+    "address" : "330 SE 11th Ave.",
+    "city" : "Portland",
+    "hours" : "Doctor: 1:30 - 4 p.m. Tuesday and Thursday Social worker: 11 a.m. - 5 p.m. Monday, 2 - 5 p.m. Thursday",
+    "notes" : "Multnomah County medical doctor on-site 2 times a week for basic medical care. County social worker twice a week for face-to-face assistance.",
+    "phone" : "503-234-2028",
+    "zip" : "97214-1317"
+  }, {
+    "address" : "426 SW Stark 3rd floor",
+    "city" : "Portland",
+    "name" : "TB Program",
+    "notes" : "hours:8 a.m.-5 p.m. Mon, Wed-Fri. Information on getting TB screening tests, treatment and x-rays. Call for appointment.",
+    "phone" : "503-988-3417",
+    "zip" : "97204-2347"
+  }, {
+    "address" : "221 W Burnside St.",
+    "city" : "Portland",
+    "hours" : "Mon.-Fri., 7:30a.m.-6:00p.m.; Closed from 12:30p.m.-1:30p.m.",
+    "notes" : "Free services by interns from the Western States Chiropractic College.",
+    "phone" : "503-223-2213",
+    "url" : "http://www.uws.edu",
+    "zip" : "97209-3914"
+  }, {
+    "address" : "2935 SW Cedar Hills Blvd (Beaverton Clinic)",
+    "city" : "Beaverton",
+    "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
+    "name" : "Virginia Garcia Memorial Health Centers",
+    "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
+    "phone" : "Beaverton Clinic: 503-352-6000; Hillsboro Clinic/OB: 503-601-7400; Hillsboro Dental: 503-352-2354; Cornelius Clinic: 503-359-8505; Cornelius Dental/Vision: 503-352-8543",
+    "url" : "http://www.virginiagarcia.org",
+    "zip" : "97005"
+  }, {
+    "address" : "85 N 12th Ave (Cornelius Clinic)",
+    "city" : "Cornelius",
+    "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
+    "name" : "Virginia Garcia Memorial Health Centers",
+    "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
+    "phone" : "Beaverton Clinic: 503-352-6000; Hillsboro Clinic/OB: 503-601-7400; Hillsboro Dental: 503-352-2354; Cornelius Clinic: 503-359-8505; Cornelius Dental/Vision: 503-352-8543",
+    "url" : "http://www.virginiagarcia.org",
+    "zip" : "97113"
+  }, {
+    "address" : "44 N 11th (Cornelius Dental/Vision)",
+    "city" : "Cornelius",
+    "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
+    "name" : "Virginia Garcia Memorial Health Centers",
+    "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
+    "phone" : "Beaverton Clinic: 503-352-6000; Hillsboro Clinic/OB: 503-601-7400; Hillsboro Dental: 503-352-2354; Cornelius Clinic: 503-359-8505; Cornelius Dental/Vision: 503-352-8543",
+    "url" : "http://www.virginiagarcia.org",
+    "zip" : "97113"
+  }, {
+    "address" : "226 SE 8th Ave (Hillsboro Clinic and OB)",
+    "city" : "Hillsboro",
+    "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
+    "name" : "Virginia Garcia Memorial Health Centers",
+    "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
+    "phone" : "Beaverton Clinic: 503-352-6000; Hillsboro Clinic/OB: 503-601-7400; Hillsboro Dental: 503-352-2354; Cornelius Clinic: 503-359-8505; Cornelius Dental/Vision: 503-352-8543",
+    "url" : "http://www.virginiagarcia.org",
+    "zip" : "97123"
+  }, {
+    "address" : "730 SE Oak St. Ste. AB (Hillsboro Dental)",
+    "city" : "Hillsboro",
+    "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
+    "name" : "Virginia Garcia Memorial Health Centers",
+    "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
+    "phone" : "Beaverton Clinic: 503-352-6000; Hillsboro Clinic/OB: 503-601-7400; Hillsboro Dental: 503-352-2354; Cornelius Clinic: 503-359-8505; Cornelius Dental/Vision: 503-352-8543",
+    "url" : "http://www.virginiagarcia.org",
+    "zip" : "97123"
+  }, {
+    "address" : "727 W Burnside",
+    "city" : "Portland",
+    "hours" : "Downtown: Thursdays, 6:30 p.m. - 8:00 p.m. (must make appointment); Gresham: Mondays, Wednesdays, starting at 6 p.m. (appointment necessary).",
+    "name" : "Wallace Medical Concern",
+    "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month. Must make appointment. Se Habla espanol.",
+    "phone" : "503-489-1760",
+    "url" : "http://www.wallacemedical.org",
+    "zip" : "97209-3514"
+  }, {
+    "address" : "254 NW Burnside Rd",
+    "city" : "Gresham",
+    "hours" : "Downtown: Thursdays, 6:30 p.m. - 8:00 p.m. (must make appointment); Gresham: Mondays, Wednesdays, starting at 6 p.m. (appointment necessary).",
+    "name" : "Wallace Medical Concern",
+    "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month. Must make appointment. Se Habla espanol.",
+    "phone" : "503-489-1760",
+    "url" : "http://www.wallacemedical.org",
+    "zip" : "97030"
+  }, {
+    "address" : "254 NW Burnside Rd",
+    "city" : "Gresham",
+    "hours" : "6:30 p.m.-8 p.m. No appointment necessary.",
+    "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month.",
+    "phone" : "503-489-1760",
+    "url" : "http://www.wallacemedical.org",
+    "zip" : "97030"
+  }, {
+    "address" : "12550 SW 2nd Street",
+    "city" : "Beaverton",
+    "hours" : "Monday, Thursday & Friday: 8 a.m. – noon, 1 p.m. --5 p.m. Tuesday: 10 a.m. -- 2 p.m., 3 -- 7 p.m. Fourth Wednesday same as Monday. All other Wednesdays only 1 p.m. -- 5 p.m.",
+    "notes" : "The department of health clinic provides birth control, annual exams and tests for sexually transmitted disease, pregnancy and HIV with counseling and immunizations.",
+    "phone" : "503-846-8881",
+    "zip" : "97005"
+  }, {
+    "address" : "266 W. Main St.",
+    "city" : "Hillsboro",
+    "hours" : "Monday, Thursday & Friday: 8 a.m. – noon, 1 p.m. -- 5 p.m. Tuesday: 10 am -- 2 p.m. Fourth Wednesday same as Monday. All other Wednesdays: 1 p.m. -- 5 p.m. only. Teen Clinic Only on Tuesday from 3 p.m. to 7 p.m.",
+    "notes" : "The Department of Health clinic provides birth control, annual exams, and tests for sexually transmitted disease, pregnancy, and HIV with counseling and immunizations. The health clinic also hosts a \"teen clinic\" on Tues.",
+    "phone" : "503-846-8881",
+    "zip" : "97124"
+  }, {
+    "address" : "15296 SW Royalty Parkway",
+    "city" : "Portland",
+    "hours" : "Monday & Friday: 8 a.m. – noon, 1 p.m. -- 5 p.m. Tuesday: 10 a.m. -- 2 p.m. First Wednesday same as Monday. All other Wednesdays only 1 p.m. -- 5 p.m. Closed Thursday Teen Clinic Only on Tuesday from 3 to 7 p.m.",
+    "zip" : "97224"
+  }, {
+    "address" : "426 SW Stark St. 5th floor",
+    "city" : "Portland",
+    "hours" : "8 a.m.-4:45 p.m. Monday-Friday.",
+    "name" : "Westside Health Clinic",
+    "notes" : "Sliding scale medical consultations; OHP Plus A and C only and Care Oregon. Se habla Espanol. Call for appointment.",
+    "phone" : "503-988-5558 (Intake) 503-988-5140 (Appointments)",
+    "url" : "http://www.co.multnomah.or.us/health/",
+    "zip" : "97204-2347"
+  }, {
+    "address" : "2023 NW Hoyt St.",
+    "city" : "Portland",
+    "hours" : "10 a.m.-3 p.m., Monday-Thursday. Closed to public on Fridays.",
+    "name" : "William Temple House",
+    "notes" : "Hygiene needs, six times a year; limited prescription assistance up to $150 three times a year. Must have ID and proof of address. Prescription assistance for psychotropic drugs only. Mental health counseling available for low income individuals.",
+    "phone" : "503-226-3021",
+    "zip" : "97209-1211"
+  } ],
+  "hotlines" : [ {
+    "phone" : "503-222-5555 or 211"
+  }, {
+    "name" : "Alcohol Drug Helpline",
+    "phone" : "503-244-1312 Teen line: 877-553-TEEN Español: 800-515-7848"
+  }, {
+    "hours" : "8:30 a.m. - 5 p.m. Mon. -Fri.",
+    "name" : "Boys and Girls Aid Society",
+    "notes" : "Counseling, adoption services, shelter program for women who are pregnant.",
+    "phone" : "503-222-9661",
+    "url" : "http://www.boysandgirlsaid.org"
+  }, {
+    "hours" : "24-hour crisis line.",
+    "name" : "Bradley-Angle House",
+    "notes" : "For women and women with children fleeing domestic violence. 24-hour crisis line. Undisclosed location.",
+    "phone" : "503-281-2442"
+  }, {
+    "name" : "Child Abuse/Reporting Hotline",
+    "phone" : "503-731-3100"
+  }, {
+    "name" : "Clackamas Women's Crisis Hotline",
+    "phone" : "503-654-2288"
+  }, {
+    "hours" : "Call for 24-hour phone intake",
+    "name" : "Clackamas Women's Services",
+    "notes" : "Women and women w/children fleeing domestic violence or recent sexual abuse. No males over 18. 24-Hour phone intake.",
+    "phone" : "503-654-2288 or 888-654-2288",
+    "url" : "http://www.cwsor.org"
+  }, {
+    "name" : "Cocaine Anonymous",
+    "notes" : "Help line and call center for people struggling with cocaine addiction.",
+    "phone" : "503-256-1666"
+  }, {
+    "address" : "620 SW 5th Ave. Fifth Floor",
+    "city" : "Portland",
+    "name" : "Disability Rights Oregon",
+    "notes" : "Disability issues",
+    "phone" : "503-243-2081; 800-452-1694",
+    "zip" : "97204-1428"
+  }, {
+    "name" : "Disability Rights Oregon",
+    "notes" : "Providing legal aid.",
+    "phone" : "503-243-2081"
+  }, {
+    "hours" : "9 a.m.– 8 p.m. Mon.-Thurs. (call for intake)",
+    "notes" : "Support for children ages 4 - 17 who have witnessed or experienced domestic or dating violence; also encouraging adult victims to participate in their children's treatment. Undisclosed location in Hillsboro.",
+    "phone" : "866-469-8600 (toll free) 503-469-8620 (crisis line)",
+    "url" : "http://www.dvrc-or.org"
+  }, {
+    "name" : "Fair Housing Council of Oregon Discrimination Hotline",
+    "notes" : "Discrimination hotline. Education and enforcement in the area of housing discrimination. Tests to determine discrimination. Files complaints on your behalf.",
+    "phone" : "1-800-669-9777",
+    "url" : "http://www.fhco.org"
+  }, {
+    "name" : "HIV/AIDS Hotline",
+    "phone" : "800-777-2437"
+  }, {
+    "name" : "Housing Authority of Downtown Portland Public Housing Hotline",
+    "notes" : "Public housing rental unit availability and referrals for affordable housing to individuals and families in Multnomah County. All public housing waiting lists are closed because the wait time exceeds a year.",
+    "phone" : "503-802-8300",
+    "url" : "http://www.hapdx.org"
+  }, {
+    "name" : "Housing Connections Internet Search Tool",
+    "notes" : "Internet search tool for finding housing in Multnomah, Washington, Clackamas and Clark counties.",
+    "phone" : "211",
+    "url" : "http://www.housingconnections.org"
+  }, {
+    "name" : "International Refugee Center of Oregon",
+    "notes" : "Assistance for refugees in the U.S. for less than 25 years.",
+    "phone" : "503-234-1541",
+    "url" : "http://www.irco.org"
+  }, {
+    "name" : "Lawyer Referral Service",
+    "notes" : "Referrals to attorneys in the area where callers need assistance.",
+    "phone" : "503-684-3763, 800-452-7636",
+    "url" : "http://www.osbar.org"
+  }, {
+    "name" : "LifeWorks Northwest",
+    "notes" : "Adult Counseling Services, multiple sites. Options for individuals, couples, and families who seek counseling services in coping with divorce, parenting, depression, domestic violence, and relationships. Culturally specific services available.",
+    "phone" : "888-645-1666 (toll free) 503-645-9010 (Intake)",
+    "url" : "http://www.lifeworksnw.org"
+  }, {
+    "name" : "Lines for Life",
+    "notes" : "Teen line: 1-877-553-TEEN (8336) Espanol: 1-877-515-7848",
+    "phone" : "1-800-923-4357",
+    "url" : "http://www.linesforlife.org"
+  }, {
+    "hours" : "24-hour hotline.",
+    "name" : "Mental Health Call Center",
+    "notes" : "24-hour, mental health resource and information referral, crisis support and mental health emergency assistance throughout Multnomah County. Mental health assistance and referral through Project Respond.",
+    "phone" : "503-988-4888, 800-716-9769"
+  }, {
+    "name" : "Military Helpline",
+    "notes" : "Information and referral for military members, veterans and families.",
+    "phone" : "888-457-4838"
+  }, {
+    "name" : "Multnomah County Crisis Line",
+    "notes" : "Mental health concerns, low-cost counseling referrals",
+    "phone" : "503-988-4888; (24 hrs) 800-716-9769"
+  }, {
+    "phone" : "503-988-3816"
+  }, {
+    "name" : "Narcotics Anonymous",
+    "phone" : "503-727-3733"
+  }, {
+    "name" : "National Child Abuse Hotline",
+    "phone" : "800-422-4453"
+  }, {
+    "name" : "OHP Client Advocate Services Unit",
+    "notes" : "For questions about coverage and billing in the Oregon Health Plan.",
+    "phone" : "800-273-0557"
+  }, {
+    "name" : "Oregon Prescription Drug Program",
+    "notes" : "Helps Oregonians purchase prescription drugs at discounted prices. Maintains a list of prescription drugs for the best possible price. View prescriptions online.",
+    "phone" : "800-913-4284",
+    "url" : "http://www.opdp.org"
+  }, {
+    "name" : "Oregon Safenet",
+    "notes" : "Helpline for women, teens and children; statewide referral services for health care, social, and mental health services, pregnancy and reproductive health services.",
+    "phone" : "211"
+  }, {
+    "notes" : "Connects uninsured and under-insured Oregonians with free or discounted prescriptions through patient assistance programs.",
+    "phone" : "888-477-2669",
+    "url" : "http://www.pparxor.org"
+  }, {
+    "name" : "Poison Control Center",
+    "notes" : "Emergency assistance for immediate poisonings.",
+    "phone" : "800-222-1222"
+  }, {
+    "name" : "Portland Bad Date Line",
+    "notes" : "Reporting line for violent or abusive customers in the sex industry. Reports are anonymous and distributed to the industry.",
+    "phone" : "503-535-3901"
+  }, {
+    "name" : "Portland Women's Crisis Line",
+    "phone" : "503-235-5333, 888-235-5333",
+    "url" : "http://www.pwcl.org"
+  }, {
+    "name" : "Rape Victims Advocate",
+    "phone" : "503-988-3222"
+  }, {
+    "hours" : "9 a.m.-5 p.m.",
+    "name" : "Raphael House of Portland",
+    "notes" : "24-hour crisis line. Emergency housing for victims fleeing a domestic violence situation. Advocacy includes support groups, children's groups, referrals, and emotional support. 60-day limit.",
+    "phone" : "503-222-6222",
+    "url" : "http://www.raphaelhouse.com"
+  }, {
+    "name" : "Renters Rights Hotline",
+    "phone" : "503-288-0130"
+  }, {
+    "address" : "4900 SW Griffith Dr. Ste. 100",
+    "city" : "Beaverton",
+    "name" : "Sexual Assault Resource Center",
+    "phone" : "503-640-5311",
+    "zip" : "97005-4649"
+  }, {
+    "name" : "Social Security Information",
+    "notes" : "For questions about Social Security benefits.",
+    "phone" : "800-772-1213"
+  }, {
+    "name" : "Suicide Prevention",
+    "phone" : "800-273-8255"
+  }, {
+    "hours" : "24/7 Hotline",
+    "name" : "Veterans Suicide Prevention Hotline",
+    "notes" : "National suicide prevention hotline to ensure veterans in emotional crisis have free 24/7 access to trained counselors.",
+    "phone" : "(800) 273-8255 Press #1 for Veterans",
+    "url" : "http://www.suicidepreventionlifeline.org/Veterans/Default.aspx"
+  }, {
+    "name" : "Volunteers of America Home Free",
+    "notes" : "Domestic violence intervention, support groups (children & adults) advocacy and emergency vouchering when available.",
+    "phone" : "503-771-5503"
+  }, {
+    "hours" : "24/7",
+    "name" : "Washington County Crisis Team",
+    "notes" : "Call for crisis intervention, support and appropriate referrals.",
+    "phone" : "503-291-9111 (Crisis Line)"
+  }, {
+    "address" : "Undisclosed Location",
+    "name" : "Yolanda House",
+    "notes" : "An emergency shelter and service program for women survivors of domestic or sexual violence and their children.",
+    "phone" : "Crisis Line: 503-535-3269",
+    "url" : "http://www.ywca.org"
+  } ],
+  "legal" : [ {
+    "name" : "American Civil Liberties Union",
+    "notes" : "Advocacy organization dedicated to preserving and advancing civil liberties and civil rights. Assistance in cases that will establish precedent on important civil liberties and civil rights principals.",
+    "phone" : "503-227-3186, 1-888-527-2258",
+    "url" : "http://www.aclu-or.org"
+  }, {
+    "name" : "Clackamas County District Attorney",
+    "notes" : "Clackamas County District Attorney's Office represents the state in a wide range of felony and misdemeanor prosecutions. Contact office for referral to Juvenile Justice and Juvenile Crime Prevention Subcommittees; the Family Violence Coordinating Council; the Criminal Justice Council; the Multidisciplinary Child Abuse Investigation Team; and the Multidisciplinary Elder Abuse Team.",
+    "phone" : "503-655-8431",
+    "url" : "http://www.clackamas.us/da/"
+  }, {
+    "address" : "421 High St. Suite 110",
+    "city" : "Oregon City",
+    "hours" : "9 a.m.-5 p.m. Mon-Fri, closed during the noon hour.",
+    "name" : "Clackamas County Legal Aid",
+    "notes" : "Serving low-income individuals and seniors in Clackamas, Hood River, Sherman, and Wasco Counties. Advice, self-help materials and representation in court on a wide range of legal issues. Call to schedule an appointment. Bus service: 33, 35, 154.",
+    "phone" : "503-655-2518",
+    "url" : "http://www.oregonlawhelp.org",
+    "zip" : "97045-2202"
+  }, {
+    "name" : "Dads Against Discrimination",
+    "notes" : "Leave a message and your call will be returned after 7 p.m. Help with paternity options; child support for children over 18 years old, joint custody problems; and undistributed child support. Bus Service: 8, 9, 33.",
+    "phone" : "503-222-1111",
+    "url" : "http://www.dadsamerica.org"
+  }, {
+    "address" : "610 SW Broadway. Ste. 200",
+    "city" : "Portland",
+    "hours" : "9 a.m.-noon, 1-5 p.m. Mon-Fri.",
+    "name" : "Disibility Rights Oregon",
+    "notes" : "Advice and information about the rights of people with disabilities, including civil rights, special education, health care, rights to public and private services, guardianship and rights in care facilities. Free legal and advocacy assistance to individuals with physical or mental disability. Transit: MAX.",
+    "phone" : "503-243-2081, 1-800-452-1694",
+    "url" : "http://www.disabilityrightsoregon.org"
+  }, {
+    "address" : "1001 Molalla Ave. Suite 209",
+    "city" : "Oregon City",
+    "hours" : "8:30 a.m – 5 p.m Mon-Thu.",
+    "name" : "First Time Offenders Diversion (Parrot Creek)",
+    "notes" : "Parrot Creek staff in local police stations (Lake Oswego, West Linn, Oregon City, Canby, Gladstone, and Milwalkie) to meet to address concerns and redirect youth Bus service: 32, 33",
+    "phone" : "503-722-4110"
+  }, {
+    "address" : "401 NE 19th Ave #200",
+    "city" : "Portland",
+    "hours" : "8:30a.m.-5p.m. Mon.-Fri.; closed for lunch during noon hour.",
+    "name" : "Juvenile Rights Project",
+    "notes" : "Protects the rights of children and youth by providing information, referrals and advice on juvenile law. Offers legal services; family mediation; juvenile court petitions for abuse and neglect allegations, among other services. Bus service: 12, 19, 20, 70",
+    "phone" : "503-232-2540, 1-866-608-1212",
+    "url" : "http://www.jrplaw.org",
+    "zip" : "97232-4800"
+  }, {
+    "address" : "921 SW Washington St Ste. 500",
+    "city" : "Portland",
+    "hours" : "9 a.m.-12, 1-5 p.m. , Monday-Friday.",
+    "name" : "Legal Aid Services of Oregon",
+    "notes" : "Drop-ins welcome. Free legal information for low-income Oregonians on a wide range of issues including family, administrative, housing, and some senior law. Transit:MAX.",
+    "phone" : "503-224-4086 Public Benefits Hotline: 1-800-520-5292",
+    "url" : "http://www.oregonlawhelp.org",
+    "zip" : "97205-2823"
+  }, {
+    "address" : "230 NE 2nd Ave. Suite A",
+    "city" : "Hillsboro",
+    "hours" : "9 a.m.-noon and 1-5 p.m., Mon-Fri.",
+    "notes" : "Assistance with restraining orders for domestic violence, elder abuse, and abuse of disabled persons, stalking orders, family law issues, public benefits issues, housing issues, employment issues and tax issues. Family law services for survivors of domestic violence in divorce, custody, parenting time and modification cases. Services for farm workers. Bus service: 48, MAX blue.",
+    "phone" : "503-648-7163 503-648-7723 (Tenant Hotline)",
+    "url" : "http://www.oregonlawhelp.org"
+  }, {
+    "address" : "397 N First Street",
+    "city" : "Woodburn",
+    "hours" : "Monday-Friday 9am-5pm.",
+    "name" : "Legal Services Program for Field Workers (Woodburn)",
+    "notes" : "Provides free legal assistance to rural workers and farm (fruit, vegetables, plants and animals, canning, food processing, meat packing etc..) Mainly help with labor issues as claims of salary payments and provide assistance with tax problems, consumer services, and civil rights. Serving the counties of Marion, Polk, Clackamas and Multnomah mainly, but can call from another county and give the reference to the appropriate office.",
+    "phone" : "503-981-5291; 1-800-662-6096 ext. 397",
+    "url" : "http://www.oregonlawhelp.org",
+    "zip" : "97071-4623"
+  }, {
+    "address" : "310 SW 4th Ave. Suite 1018",
+    "city" : "Portland",
+    "hours" : "9 a.m.-5 p.m., Monday-Friday.",
+    "name" : "Lewis and Clark Legal Clinic",
+    "notes" : "New client intakes done while school is in session by appointment only. Topics include residential evictions, chapter 7 bankruptcy, child support modifications, restraining and stalking order, child support modification cases, and tax controversies with the Internal Revenue Service. Client incomes must fall within the federal poverty income guidelines.",
+    "phone" : "503-768-6500",
+    "url" : "http://www.lclark.edu/law/clinics/legal_clinic/",
+    "zip" : "97204-2305"
+  }, {
+    "address" : "1021 S.W. Fourth Avenue Room 600",
+    "city" : "Portland",
+    "name" : "Multnomah County District Attorney",
+    "notes" : "Bus service: Fareless Max All.",
+    "phone" : "503-988-3162 For general information. 503-988-3150 For Child Support. 503-988-3222 For Victims Assistance.",
+    "url" : "http://www.mcda.us",
+    "zip" : "97204-1110"
+  }, {
+    "name" : "Oregon Law Center",
+    "notes" : "OLC provides free civil legal services to low-income people. The Portland office of OLC is not an entry point into legal services. If you need legal assistance, the first step is to contact the legal services office serving your county. If you are looking for information about civil legal problems, want to know more about an area of law that affects low income people, or want to see what forms or other legal resources are available, please visit the Oregon Law Help site.",
+    "phone" : "503-295-2760"
+  }, {
+    "address" : "2619 NW Industrial Way Suite B4",
+    "city" : "Portland",
+    "name" : "Property and Evidence Division of the Portland Police Bureau",
+    "phone" : "503-823-2179",
+    "url" : "http://www.portlandonline.com/police/",
+    "zip" : "97210"
+  }, {
+    "address" : "921 SW Washington St Suite 500",
+    "city" : "Portland",
+    "hours" : "1p.m.-5 p.m. Mon-Thurs.",
+    "name" : "Senior Law Project",
+    "notes" : "Free counseling in legal matters to any Multnomah County resident 60 and older, who is a U.S. citizen or legal alien. Assistance with health benefits; protection from abuse and exploitation; long term care; property issues; wills and estates. Call for consultation appointment. Fareless max.",
+    "phone" : "503-224-4086",
+    "url" : "http://www.oregonlawhelp.org",
+    "zip" : "97205-2823"
+  }, {
+    "address" : "421 High St. #210",
+    "city" : "Oregon City",
+    "notes" : "St. Andrew Legal Clinic is a community-based non-profit organization that provides quality legal services, in the area of family law, to low income individuals and families in Multnomah, Washington and Clackamas Counties.",
+    "phone" : "503-557-9800.",
+    "url" : "http://www.salcgroup.org",
+    "zip" : "97045"
+  }, {
+    "address" : "807 NE Alberta St.",
+    "city" : "Portland",
+    "hours" : "Night Clinic hours: Every Wednesday and every other Tuesday, 6:30 - 9:00 pm Regular hours: Monday - Friday 9:00 am - 5:00 pm (closed noon - 1:00 pm).",
+    "notes" : "Provides legal services, in the area of family law, to low-income individuals and families in Multnomah, Washington and Clackamas Counties.",
+    "phone" : "Multnomah County 503-281-1500. Washington County 503-648-1600. Clackamas County 503-557-9800.",
+    "url" : "http://www.salcgroup.org",
+    "zip" : "97211"
+  }, {
+    "address" : "232 NE Lincoln, Ste. H. Hillsboro",
+    "city" : "Portland",
+    "hours" : "Night Clinic hours: Wednesdays, 6:30 - 9:00 pm in Washington County 3rd Thursday of each month, 6:30 - 9:00 pm in Columbia County Regular hours: Monday - Friday 9:00 am - 5:00 pm (closed noon - 1:00 pm)",
+    "notes" : "St. Andrew Legal Clinic is a community-based non-profit organization that provides quality legal services, in the area of family law, to low income individuals and families in Multnomah, Washington and Clackamas Counties.",
+    "phone" : "Washington County 503-648-1600. Multnomah County 503-281-1500. Clackamas County 503-557-9800.",
+    "url" : "http://www.salcgroup.org"
+  }, {
+    "address" : "1120 SW 5th Ave Suite # 1530",
+    "city" : "Portland",
+    "hours" : "8 a.m.-5 p.m. Mon-Fri.",
+    "name" : "Support Enforcement Division",
+    "notes" : "A division of the Multnomah County District Attorney's office. Child Support Collection: payment information, out-of-state orders, modifying an order, locating the parent, establishing paternity, enforcing support, disbursement, accounting.",
+    "phone" : "503-988-3150",
+    "url" : "http://www.dcs.state.or.us",
+    "zip" : "97204-1912"
+  }, {
+    "address" : "820 SW 2nd Ave Suite 200",
+    "city" : "Portland",
+    "hours" : "Hours: 8:30 a.m.-5 p.m. Mon-Fri.",
+    "notes" : "Social security and workers compensation legal services for injured and disabled people. Free phone consultation. Fair benefits and full compensation.",
+    "phone" : "503-228-5222",
+    "url" : "http://www.stc-law.com"
+  }, {
+    "name" : "Tel-Law (recorded info)",
+    "notes" : "State-wide legal referrals. The client will be given the name and phone number of an attorney in the area where they need assistance.",
+    "phone" : "503-620-3000",
+    "url" : "http://www.osbar.org"
+  }, {
+    "address" : "401 NE 19th Ave, #200",
+    "city" : "Portland",
+    "hours" : "Hours: 8:30 a.m.- 5 p.m. Mon.-Fri.; Closed noon-1 p.m. for lunch.",
+    "notes" : "Provides information or referrals on juvenille law. Provides court-appointed legal representation in juvenille court.",
+    "phone" : "503-232-2540, 1-866-608-1212"
+  } ],
+  "meals" : [ {
+    "address" : "4033 SE Woodstock Blvd.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.478974, -122.621178 ]
+    },
+    "hours" : "Hours for meals: 11:30 a.m. - 12:30 p.m. Sat.",
+    "name" : "All Saints Episcopal Church",
+    "notes" : "All Saints Episcopal Church 4033 SE Woodstock Blvd. Portland OR 97202-7661 503-777-3829 http://www.allsaintspdx.com Hours for meals: 11:30 a.m. - 12:30 p.m. Sat. Transit: 10, 19, 75. Hot meals every every Saturday. The Mustard Seed thrift shop is open 10:00a.m.-3:00p.m.",
+    "phone" : "503-777-3829",
+    "url" : "http://www.allsaintspdx.com",
+    "zip" : "97202-7661"
+  }, {
+    "address" : "Col. Summers Park",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.515688, -122.646647 ]
+    },
+    "date" : "Every Sunday",
+    "hours" : "9.00 AM",
+    "name" : "Food not Bombs",
+    "notes" : "Free food to peaceful people",
+    "phone" : "",
+    "url" : "http://www.foodnotbombs.net/oregon.html",
+    "zip" : "97217"
+  }, {
+    "address" : "3733 N Williams",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.550098, -122.667068 ]
+    },
+    "hours" : "Every Sunday, Meal at 5pm, Worship at 6pm",
+    "name" : "Anawim (North)",
+    "notes" : "Anawim (North) 3733 N Williams Portland OR 97227 503.888.4453 Every Sunday, Meal at 5pm, Worship at 6pm House Worship (Home cooked meal and home meeting)",
+    "phone" : "503.888.4453",
+    "zip" : "97227"
+  }, {
+    "address" : "6265 N. Columbia Way.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.593941, -122.730042 ]
+    },
+    "hours" : "Saturday 11-1pm",
+    "name" : "Anawim Trail Ministry",
+    "notes" : "Anawim Trail Ministry 6265 N. Columbia Way. Portland OR 97203 503-888-4453 Saturday 11-1pm Food, clothes, socks, resources",
+    "phone" : "503-888-4453",
+    "zip" : "97203"
+  }, {
+    "address" : "310 NW Glisan St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5266397, -122.673767 ]
+    },
+    "hours" : "6:30-7:30 a.m. (breakfast), 11:30 a.m.-12:30 p.m. (lunch), 5 p.m-6 p.m. (dinner), Monday-Saturday.",
+    "name" : "Blanchet House",
+    "notes" : "Blanchet House 310 NW Glisan St. Portland OR 97209-3712 503-226-3911 http://www.blanchethouse.org 6:30-7:30 a.m. (breakfast), 11:30 a.m.-12:30 p.m. (lunch), 5 p.m-6 p.m. (dinner), Monday-Saturday. Transit: Max All. Serving breakfast, lunch and dinner.",
+    "phone" : "503-226-3911",
+    "url" : "http://www.blanchethouse.org",
+    "zip" : "97209-3712"
+  }, {
+    "address" : "526 SE Grand Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5191074, -122.6606859 ]
+    },
+    "hours" : "Dinner at 5:45 p.m. Monday-Saturday.",
+    "name" : "City Team Int'l",
+    "notes" : "City Team Int'l. 526 SE Grand Ave. Portland OR 97214-2215 503-231-9334 http://www.cityteam.org Dinner at 5:45 p.m. Monday-Saturday. Feeding program focuses on serving meals each evening (except Sunday) Shelter available, $5/night; Shower for overnight guests.",
+    "phone" : "503-231-9334",
+    "url" : "http://www.cityteam.org",
+    "zip" : "97214-2215"
+  }, {
+    "address" : "12645 SW Pacific Hwy",
+    "city" : "Tigard",
+    "coords" : {
+      "l" : [ 45.4284185, -122.7762274 ]
+    },
+    "hours" : "Sunday 5:30p.m.-7p.m.",
+    "name" : "Community Cafe at St. Anthony School Cafeteria",
+    "notes" : "Community Cafe at St. Anthony School Cafeteria 12645 SW Pacific Hwy Tigard OR 503-639-4179 Sunday 5:30p.m.-7p.m. Transit: 12 Free hot dinner every Sunday. No ID required.",
+    "phone" : "503-639-4179"
+  }, {
+    "address" : "750 SE 8th Ave.",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.513721, -122.975418 ]
+    },
+    "hours" : "Mon.-Fri., 9:00a.m.-5:00p.m.",
+    "name" : "Community Senior Center of Hillsboro",
+    "notes" : "Community Senior Center of Hillsboro 750 SE 8th Ave. Hillsboro OR 97123 503-615-1090 Mon.-Fri., 9:00a.m.-5:00p.m. Transit: 57 Congregate meals, trips, activities, client services, advocacy and legal services.",
+    "phone" : "503-615-1090",
+    "zip" : "97123"
+  }, {
+    "address" : "601 W. Burnside St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5160484, -122.7454605 ]
+    },
+    "hours" : "7 p.m. Fri.",
+    "name" : "Downtown Chapel",
+    "notes" : "Downtown Chapel 601 W. Burnside St. Portland OR 97209-3614 503-228-0746 http://www.downtownchapel.org/foodpantry 7 p.m. Fri. Transit: Max All, 9, 12, 33, 54. Friday night it's ‘Brother Andre Café' inviting neighbors and guests of Old Town to join in a warm meal and fellowship. People are invited to go through the food line as often as they like.",
+    "phone" : "503-228-0746",
+    "url" : "http://www.downtownchapel.org/foodpantry",
+    "zip" : "97209-3614"
+  }, {
+    "address" : "909 SW 11th Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.518879, -122.684471 ]
+    },
+    "hours" : "2:00pm-4:00pm",
+    "name" : "First Baptist Church",
+    "notes" : "First Baptist Church 909 SW 11th Ave. Portland OR 97205-2002 503-228-7465 http://www.fbc-portland.org 2:00pm-4:00pm Transit: Max Blue, Red. Hot lunches on Monday and Thursday. Food boxes with vouchers from TPI, CCC, NW Pilot Project, Outside In.",
+    "phone" : "503-228-7465",
+    "url" : "http://www.fbc-portland.org",
+    "zip" : "97205-2002"
+  }, {
+    "address" : "2037 Douglas St.",
+    "city" : "Forest Grove",
+    "coords" : {
+      "l" : [ 45.5057106, -122.7991104 ]
+    },
+    "hours" : "Mon.-Fri., 7:30a.m.-4:30p.m.; Breakfast 7:30a.m.-9:30a.m.; Lunch at 12:00p.m.-1:00p.m.",
+    "name" : "Forest Grove Senior & Community Center (FGSC)",
+    "notes" : "Forest Grove Senior & Community Center (FGSC) 2037 Douglas St. Forest Grove OR 97116 503-357-2021 http://www.fgseniorcenter.org Mon.-Fri., 7:30a.m.-4:30p.m.; Breakfast 7:30a.m.-9:30a.m.; Lunch at 12:00p.m.-1:00p.m. Transit: 57 Provides breakfast, lunch as well as Meals on Wheels service to homebound seniors. FGSC publishes a quarterly newsletter and offers a variety of activities and classes.",
+    "phone" : "503-357-2021",
+    "url" : "http://www.fgseniorcenter.org",
+    "zip" : "97116"
+  }, {
+    "address" : "1535 NE 17th Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.533875, -122.649147 ]
+    },
+    "hours" : "6 p.m. Fri.; Snacks served on Tues., Wed. and Thurs., 11a.m.-1p.m.",
+    "name" : "Grace Memorial Episcopal Church",
+    "notes" : "Grace Memorial Episcopal Church 1535 NE 17th Ave. Portland OR 97232-1417 503-287-0418 http://www.grace-memorial.org 6 p.m. Fri.; Snacks served on Tues., Wed. and Thurs., 11a.m.-1p.m. Transit: 8, 9, 10, 77 Dinners and lunches. No sermon required. One per person, once a week.",
+    "phone" : "503-287-0418",
+    "url" : "http://www.grace-memorial.org",
+    "zip" : "97232-1417"
+  }, {
+    "address" : "15659 SW Oregon St.",
+    "city" : "Sherwood",
+    "coords" : {
+      "l" : [ 45.5185394, -122.8292465 ]
+    },
+    "hours" : "Last Thursday of month at 6p.m.",
+    "name" : "Hope Diner at St. Francis Church",
+    "notes" : "Hope Diner at St. Francis Church 15659 SW Oregon St. Sherwood OR 503-625-7067 Last Thursday of month at 6p.m. Transit: 12 Free hot dinner every Sunday. No ID required. Emergency food boxes also available for low income residents of Sherwood (zip code 97140 Only).",
+    "phone" : "503-625-7067"
+  }, {
+    "address" : "SW 9th Ave. at Washington, O'Bryant Square",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521305, -122.679912 ]
+    },
+    "name" : "Living Hope Int'l",
+    "notes" : "Living Hope Int'l SW 9th Ave. at Washington, O'Bryant Square Portland OR Transit: Max Breakfast buffet. Hours: 8-10 a.m. every Sunday."
+  }, {
+    "address" : "372 NE Lincoln St.",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.523548, -122.98484 ]
+    },
+    "hours" : "11:30 a.m. daily",
+    "name" : "Loaves and Fishes",
+    "notes" : "Loaves and Fishes 372 NE Lincoln St. Hillsboro OR 97124-3146 503-648-2950 http://www.feedseniors.org 11:30 a.m. daily Transit: 46 60+, free senior nutrition program meals, all others $5.50",
+    "phone" : "503-648-2950",
+    "url" : "http://www.feedseniors.org",
+    "zip" : "97124-3146"
+  }, {
+    "address" : "SW 9th Ave. at Washington St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5210902, -122.6804101 ]
+    },
+    "hours" : "8 a.m. first Sat. of each month",
+    "name" : "O'Bryant Square",
+    "notes" : "O'Bryant Square SW 9th Ave. at Washington St. Portland OR None 8 a.m. first Sat. of each month Transit: Max All. Every Sunday breakfast buffet served all morning.",
+    "phone" : "None"
+  }, {
+    "address" : "1432 SW 13th Ave",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.515621, -122.687622 ]
+    },
+    "name" : "Operation Nightwatch",
+    "notes" : "Operation Nightwatch 1432 SW 13th Ave Portland OR 503-220-0438 Transit: Bus 6,MAX. Sandwiches and games. Hours: 7 p.m.-11 p.m. Thurs-Sat. Foot care 2nd and 4th Saturdays, 10 a.m. to noon.",
+    "phone" : "503-220-0438"
+  }, {
+    "address" : "1400 NE 48th Ave.",
+    "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.535595, -122.932838 ]
+    },
+    "hours" : "5:30 p.m. Wednesday.",
+    "name" : "Our Place Christian Church",
+    "notes" : "Our Place Christian Church 1400 NE 48th Ave. Hillsboro OR 97124-5102 503-726-0773 http://www.ourplacechurch.com 5:30 p.m. Wednesday. Transit: 48 Wednesday evening meal service, clothes closet, and food pantry.",
+    "phone" : "503-726-0773",
+    "url" : "http://www.ourplacechurch.com",
+    "zip" : "97124-5102"
+  }, {
+    "address" : "1550 NW Overton St at 16th",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5321053, -122.6870151 ]
+    },
+    "hours" : "7 p.m., Fri.; 2 p.m. and 7 p.m., Sat.",
+    "name" : "Overton Feed",
+    "notes" : "Overton Feed 1550 NW Overton St at 16th Portland OR None 7 p.m., Fri.; 2 p.m. and 7 p.m., Sat. Transit: 17, 77, Streetcar Free meals served every weekend.",
+    "phone" : "None"
+  }, {
+    "address" : "15 NW 3rd Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5232909, -122.6734377 ]
+    },
+    "hours" : "10:30 a.m.- 11a.m., Saturday lunch",
+    "name" : "People's Bible Church",
+    "notes" : "People's Bible Church 15 NW 3rd Ave. Portland OR 97209-3906 10:30 a.m.- 11a.m., Saturday lunch Transit: Fareless Max All. Sunday morning hot breakfast, church services not required.",
+    "zip" : "97209-3906"
+  }, {
+    "address" : "111 W. Burnside St",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5231421, -122.6715837 ]
+    },
+    "hours" : "Breakfast at 7 a.m. daily; Dinner at 6 p.m. daily.",
+    "name" : "Portland Rescue Mission",
+    "notes" : "Portland Rescue Mission 111 W. Burnside St Portland OR 97209-4007 503-906-7690 http://www.PortlandRescueMission.org Breakfast at 7 a.m. daily; Dinner at 6 p.m. daily. Transit: Max All, 16,12,19,20. Two daily meals, sermon not required. Meals are provided free of charge.",
+    "phone" : "503-906-7690",
+    "url" : "http://www.PortlandRescueMission.org",
+    "zip" : "97209-4007"
+  }, {
+    "address" : "SW 9th Ave. at Washington St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521329, -122.680011 ]
+    },
+    "hours" : "Lunch tickets given at 1 p.m. Meal serving begins at 3 p.m., Sun.",
+    "name" : "Potluck In The Park",
+    "notes" : "Potluck In The Park, O'Bryant Square SW 9th Ave. at Washington St. Portland OR 503-255-7611 http://www.potluckinthepark.org Lunch tickets given at 1 p.m. Meal serving begins at 3 p.m., Sun. Transit: Max All. Lunch and snacks on Sundays.",
+    "phone" : "503-255-7611",
+    "url" : "http://www.potluckinthepark.org"
+  }, {
+    "address" : "8147 SE Pine St at Ash Street.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520779, -122.579498 ]
+    },
+    "hours" : "7 p.m.-10 p.m. Friday.",
+    "name" : "Rahab's Sisters",
+    "notes" : "Rahab's Sisters 8147 SE Pine St at Ash Street. Portland OR 97215-1554 503-254-8168 http://www.rahabs-sisters.org 7 p.m.-10 p.m. Friday. Transit: 20, 72 Food and hospitality drop-in center. All women welcome for meal, personal hygiene supplies.",
+    "phone" : "503-254-8168",
+    "url" : "http://www.rahabs-sisters.org",
+    "zip" : "97215-1554"
+  }, {
+    "address" : "3612 SW Troy",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.4680557, -122.7146378 ]
+    },
+    "hours" : "Tuesdays at 6p.m.",
+    "name" : "Riversgate Church",
+    "notes" : "Riversgate Church 3612 SW Troy Portland OR 97219 http://www.riversgate.net Tuesdays at 6p.m. Transit: 44 We serve a hot dinner every Tuesday evenings at 6:00pm. No sermon required.",
+    "url" : "http://www.riversgate.net",
+    "zip" : "97219"
+  }, {
+    "address" : "133 NW 6th Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5241915, -122.6765317 ]
+    },
+    "hours" : "10 a.m.- 2:00 p.m. Mon. - Fri.",
+    "name" : "Sisters Of The Road Café",
+    "notes" : "Sisters Of The Road Café 133 NW 6th Ave. Portland OR 97209-3608 503-222-5694 http://www.sistersoftheroadcafe.org 10 a.m.- 2:00 p.m. Mon. - Fri. Transit: Max Green, Yellow. Lunches served daily. $1.50 cash, Oregon Trail Card, or barter meal for chores.",
+    "phone" : "503-222-5694",
+    "url" : "http://www.sistersoftheroadcafe.org",
+    "zip" : "97209-3608"
+  }, {
+    "address" : "330 SE 11th Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520378, -122.654129 ]
+    },
+    "hours" : "5 p.m. Mon. - Fri.; 3:30 p.m. Sun. Showers are on Mon. & Thurs., women 11:00a.m.-12:00p.m.; Men 1:30p.m.-4:00p.m.",
+    "name" : "St. Francis Dining Hall",
+    "notes" : "St. Francis Dining Hall 330 SE 11th Ave. Portland OR 97214-1317 503-234-2028 5 p.m. Mon. - Fri.; 3:30 p.m. Sun. Showers are on Mon. & Thurs., women 11:00a.m.-12:00p.m.; Men 1:30p.m.-4:00p.m. Transit: 12, 19, 20. Serving dinners six days a week; closed on Sat. Free clothing, showers and hygiene products available after 10a.m.",
+    "phone" : "503-234-2028",
+    "zip" : "97214-1317"
+  }, {
+    "address" : "2036 SE Jefferson Ave.",
+    "city" : "Milwaukie",
+    "coords" : {
+      "l" : [ 45.4431229, -122.6403809 ]
+    },
+    "hours" : "2:15 p.m. on Sun.",
+    "name" : "St. John's Episcopal Church",
+    "notes" : "St. John's Episcopal Church 2036 SE Jefferson Ave. Milwaukie OR 97222-7660 503-653-5880 http://www.stjohnsmilwaukie.org 2:15 p.m. on Sun. Transit: 31, 32, 33, 70 Meal service ministry.",
+    "phone" : "503-653-5880",
+    "url" : "http://www.stjohnsmilwaukie.org",
+    "zip" : "97222-7660"
+  }, null, {
+    "address" : "1704 NE 43rd Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.535419, -122.618599 ]
+    },
+    "hours" : "11:30 a.m.-12:30 p.m., Second and last Saturday of each month.",
+    "name" : "St. Michael's & All Angels Church",
+    "notes" : "St. Michael's & All Angels Church 1704 NE 43rd Ave. Portland OR 97213-1402 503-284-7141 http://www.stmaa.org 11:30 a.m.-12:30 p.m., Second and last Saturday of each month. Transit: 12, 77, Hollywood MAX Spaghetti lunch last Saturday of month/second Saturday of month mixed menu lunch.",
+    "phone" : "503-284-7141",
+    "url" : "http://www.stmaa.org",
+    "zip" : "97213-1402"
+  }, null, {
+    "address" : "1432 SW 13th Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.515621, -122.687622 ]
+    },
+    "hours" : "12 Noon",
+    "notes" : "St. Stephen's Episcopal Church 1432 SW 13th Ave. Portland OR 97201-3390 503-223-6424 12 Noon Transit: MAX, Streetcar Chili lunch served on Tuesday.",
+    "phone" : "503-223-6424",
+    "zip" : "97201-3390"
+  }, {
+    "address" : "3520 SE Yamhill St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.515522, -122.627777 ]
+    },
+    "hours" : "Wednesday, 6 p.m.-7:p.m., dinner; Friday 6 p.m.- 8 p.m. dinner.",
+    "name" : "Sunnyside Methodist Church",
+    "notes" : "Sunnyside Methodist Church 3520 SE Yamhill St. Portland OR 97214-4349 503-235-8726 Wednesday, 6 p.m.-7:p.m., dinner; Friday 6 p.m.- 8 p.m. dinner. Transit: 14, 15, 75 Dinners, coffee house, bible study, entertainment.",
+    "phone" : "503-235-8726",
+    "zip" : "97214-4349"
+  }, {
+    "address" : "1712 NE Sandy",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.524803, -122.647804 ]
+    },
+    "hours" : "Mon., 11a.m.-1p.m., 5p.m.-7 (meals)",
+    "name" : "The Salvation Army Corps",
+    "notes" : "The Salvation Army Corps 1712 NE Sandy Portland OR 503-640-4311 Mon., 11a.m.-1p.m., 5p.m.-7 (meals) Transit: 12,20 Free hot meal on Wed. 11a.m.-1p.m., Mon. 5p.m.-7. No ID required for meals. Utility assistance applications accepted 9a.m.-11 weekdays, except Wed., for Hillsboro water service and PGE, when funds are available.",
+    "phone" : "503-640-4311"
+  }, {
+    "address" : "11321 SW Naeve St.",
+    "city" : "Tigard",
+    "coords" : {
+      "l" : [ 45.409517, -122.7925976 ]
+    },
+    "hours" : "6:00p.m.",
+    "name" : "Tigard Covenant Church",
+    "notes" : "Tigard Covenant Church 11321 SW Naeve St. Tigard OR 503-639-3084 6:00p.m. Transit: 12 Free hot dinner on the last Sunday of the month. Emergency food boxes for low income residents of Tigard or Tualatin, zip codes 97223, 97224, 97062. No ID required.",
+    "phone" : "503-639-3084"
+  }, {
+    "address" : "147 NW 19th Ave. at Everett St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5246048, -122.6899872 ]
+    },
+    "hours" : "3:00 p.m. Last Sunday of each month. Housing assistance for seniors 11:30 a.m. - 2:30 p.m. Wed.",
+    "name" : "Trinity Episcopal Cathedral Community Dinner",
+    "notes" : "Trinity Episcopal Cathedral Community Dinner 147 NW 19th Ave. at Everett St. Portland OR 97209-1901 503-872-0756 3:00 p.m. Last Sunday of each month. Housing assistance for seniors 11:30 a.m. - 2:30 p.m. Wed. Transit: 17, 20. Community dinner for Seniors 55 years of age or older. Wheelchair access: NW Everett & NW Trinity Place.",
+    "phone" : "503-872-0756",
+    "zip" : "97209-1901"
+  }, {
+    "address" : "15 NW Third Ave.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.5232909, -122.6734377 ]
+    },
+    "hours" : "Snacks, beverages, clothing, referral services and spiritual support. Hours: Sat. 2p.m.-4:30; Mon.-Fri., 10a.m.-12p.m & 2p.m.-4:30 hot lunch; 7:15p.m. Chapel & hot dinner. Fri. 6:30a.m. ONLY hot breakfast and sack lunches available. Peoples Bible Church with hot meal. Hours: Sat. 8:30a.m.-12p.m.",
+    "name" : "Union Gospel Mission",
+    "notes" : "Union Gospel Mission 15 NW Third Ave. Portland OR 97209-3906 503-224-3958 http://www.ugmportland.org Snacks, beverages, clothing, referral services and spiritual support. Hours: Sat. 2p.m.-4:30; Mon.-Fri., 10a.m.-12p.m & 2p.m.-4:30 hot lunch; 7:15p.m. Chapel & hot dinner. Fri. 6:30a.m. ONLY hot breakfast and sack lunches available. Peoples Bible Church with hot meal. Hours: Sat. 8:30a.m.-12p.m. Transit: MAX Meals; sack lunches.",
+    "phone" : "503-224-3958",
+    "url" : "http://www.ugmportland.org",
+    "zip" : "97209-3906"
+  }, {
+    "address" : "59 NW Ava Ave",
+    "city" : "Gresham",
+    "coords" : {
+      "l" : [ 45.4980426, -122.436793 ]
+    },
+    "hours" : "11-a.m.-1 p.m., and 2 p.m. Sundays. Mon.-Fri.",
+    "name" : "Zarephath Pantry",
+    "notes" : "Zarephath Pantry 59 NW Ava Ave Gresham OR 97030 http://www.zmgresham.org 11-a.m.-1 p.m., and 2 p.m. Sundays. Mon.-Fri. Hot meals served daily,",
+    "url" : "http://www.zmgresham.org",
+    "zip" : "97030"
+  } ],
+  "petcare" : [ {
+    "address" : "5335 SW 42nd Ave.",
+    "city" : "Portland",
+    "hours" : "See website for event schedules.",
+    "name" : "Animal Aid",
+    "notes" : "Animal Aid 5335 SW 42nd Ave. Portland OR 97221-3550 503-292-6628 http://www.animalaidpdx.org See website for event schedules. Spaying/neutering throughout the year: Spay Day USA; Tom & Mom Cat Special - $10 for each spay/neuter; offer interest-free loans so animal can receive immediate medical care, also loans for spay/neuter.",
+    "phone" : "503-292-6628",
+    "url" : "http://www.animalaidpdx.org",
+    "zip" : "97221-3550"
+  }, {
+    "address" : "1435 NE 81st St.",
+    "city" : "Portland",
+    "hours" : "To make an appointment go to office Monday-Friday, 10 a.m.-3 p.m.",
+    "name" : "JOIN",
+    "notes" : "JOIN 1435 NE 81st St. Portland OR 97213 503-232-2031 http://www.joinpdx.com To make an appointment go to office Monday-Friday, 10 a.m.-3 p.m. Transit: Max Blue, Green, Red, 72, 77 Usually has dog food available for people, occasionally has cat food. Provide access to local vet for free vaccination and spay/neuter services -stipulations: owner must be homeless, can get vaccinations if owner agrees to have animal spayed/neutered, owner must come to JOIN to set up appointment in person, no phone appointments.",
+    "phone" : "503-232-2031",
+    "url" : "http://www.joinpdx.com",
+    "zip" : "97213"
+  }, {
+    "address" : "1067 NE Columbia Blvd.",
+    "city" : "Portland",
+    "name" : "Oregon Humane Society",
+    "notes" : "Oregon Humane Society 1067 NE Columbia Blvd. Portland OR 97211-1411 503-285-7722 ext 211 http://www.oregonhumane.org Animals accepted for emergency boarding must be referred to OHS by owner's case worker, Red Cross or similar agency. Low cost spay/neuter coupons available for low income residents. Will distribute cat/dog food with valid ID.",
+    "phone" : "503-285-7722 ext 211",
+    "url" : "http://www.oregonhumane.org",
+    "zip" : "97211-1411"
+  }, {
+    "address" : "2700 NW Front Ave",
+    "city" : "Portland",
+    "name" : "PAW Team",
+    "notes" : "PAW Team 2700 NW Front Ave Portland OR 97205-1702 503-535-3844 message line http://www.pawteam.org For spay/neuter referral, deworming, flea treatments, vaccinations, pet care supplies and licensing. Date of clinics given on message line. Photo ID required. Clinics held first Sunday of month, except holidays. Clinics hours 10 a.m-2 p.m. Doors open 8 a.m., tickets given until noon.",
+    "phone" : "503-535-3844 message line",
+    "url" : "http://www.pawteam.org",
+    "zip" : "97205-1702"
+  }, {
+    "name" : "Portland Leash Law",
+    "notes" : "Portland Leash Law Portland has leash laws regarding pets on public property. Dogs are required to be on leashes unless they are in a designated off-leash area during off-leash hours. Pet owners must show they have immediate reach and control of their animal. Pet owners are required to scoop up and properly dispose of any fecal material animals leave in parks. Animals found in violation of city and county animal control regulations may be impounded, at the expense of the owner. Exceptions apply to service animals and police dogs."
+  }, {
+    "hours" : "Call the closest location to you to schedule your appointment:",
+    "name" : "Spay and Save",
+    "notes" : "Spay and Save Cat Adoption Team, 14175 SW Galbreath Drive, Sherwood, OR Phone: (503) 925-8903 Multnomah County Animal Services, 1700 W Columbia River Hwy, Troutdale, Phone: (503) 988-7387 Oregon Humane Society, 1067 NE Columbia Blvd. Portland, Phone: (503) 802-6755 For Stray or Feral Cats: Feral Cat Coalition of Oregon, Phone: (503) 797-2606 http://www.asapmetro.org Call the closest location to you to schedule your appointment: Spay and Save program is an initiative of the Animal Shelter Alliance of Portland in which spay or neuter surgeries are offered to the cats of low income people for a fee of only $10. All cats are welcome, whether they are owned, stray or feral. To qualify, the person bringing in the cat(s) must be currently receiving government assistance such as Medicaid, WIC, Food Stamps, SSI, Section 8 public housing, AFDC, TANF or other government assistance programs. They must also be a resident of Multnomah, Washington, Clackamas or Clark Counties.",
+    "phone" : "Cat Adoption Team, 14175 SW Galbreath Drive, Sherwood, OR Phone: (503) 925-8903 Multnomah County Animal Services, 1700 W Columbia River Hwy, Troutdale, Phone: (503) 988-7387 Oregon Humane Society, 1067 NE Columbia Blvd. Portland, Phone: (503) 802-6755 For Stray or Feral Cats: Feral Cat Coalition of Oregon, Phone: (503) 797-2606",
+    "url" : "http://www.asapmetro.org"
+  } ],
+  "shelters" : {
+    "shelterInfo00" : {
+      "beds" : "2",
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.519016, -122.660436 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : true,
+        "gender" : "male",
+        "pets" : true,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1830,
+        "open" : 1200
+      },
+      "location" : "526 SE Grand Ave Portland, OR 97214",
+      "name" : "City Team Ministries",
+      "phone" : "(503) 231-9334",
+      "updatedAt" : 1417407249723,
+      "url" : "http://www.cityteam.org/portland/"
+    },
+    "shelterInfo01" : {
+      "beds" : 0,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.520893, -122.9697 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : true,
+        "pets" : true,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1830,
+        "open" : 1200
+      },
+      "location" : "210 South East 12th Ave, OR 97214",
+      "name" : "Community Action Family Shelter",
+      "phone" : "(503) 640-3263",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.caowash.org/"
+    },
+    "shelterInfo02" : {
+      "beds" : 1,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.539016, -122.640436 ]
+      },
+      "facilities" : {
+        "TB" : true,
+        "bed" : true,
+        "food" : true,
+        "pets" : false,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "13 Salem Family Center",
+      "name" : "Portland Homeless Family Solutions",
+      "phone" : "211",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.pdxhfs.org"
+    },
+    "shelterInfo03" : {
+      "beds" : 6,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.53363, -122.671668 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : true,
+        "pets" : true,
+        "shower" : true,
+        "wifi" : true
+      },
+      "hours" : {
+        "close" : 1900,
+        "open" : 1200
+      },
+      "location" : "111 W Burnside St",
+      "name" : "Portland Rescue Mission",
+      "phone" : "(503) 906-7690",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.portlandrescuremission.org"
+    },
+    "shelterInfo04" : {
+      "beds" : 30,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.522627, -122.672282 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : false,
+        "pets" : false,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "30 SW 2nd Ave Portland OR 97209",
+      "name" : "Salvation Army Female Emergency Shelter (SAFES)",
+      "phone" : "(503) 227-0810",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.tsacascade.org"
+    },
+    "shelterInfo05" : {
+      "beds" : 1,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.527791, -122.677299 ]
+      },
+      "facilities" : {
+        "TB" : true,
+        "bed" : true,
+        "food" : false,
+        "pets" : true,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : "0800",
+        "open" : 1600
+      },
+      "location" : "650 NW Irving St. Portland OR 97209",
+      "name" : "Transition Projects Inc (TPI)",
+      "phone" : "(503) 280-4700",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.tprojects.org"
+    },
+    "shelterInfo06" : {
+      "beds" : 7,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "0",
+        "l" : [ 0, 0 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : false,
+        "children" : true,
+        "clothing" : true,
+        "food" : true,
+        "gender" : "female",
+        "pets" : true,
+        "shower" : false,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "Undisclosed",
+      "name" : "West Women's and Children's Shelter",
+      "phone" : "(503) 224-7718",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.salvationarmyportland.org/usw/www_usw_portlandmetro.nsf/vw-dynamic-index/321866B2EB4ED876882576D000015A1B?Opendocument"
+    },
+    "shelterInfo07" : {
+      "beds" : 6,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.524195, -122.989292 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : false,
+        "food" : false,
+        "pets" : true,
+        "shower" : false,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "111 NE Lincoln Ste 200-L Hillsboro OR 97124",
+      "name" : "Washington County Housing Services",
+      "phone" : "(503) 846-4794",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.co.washington.or.us/housing"
+    },
+    "shelterInfo08" : {
+      "beds" : 8,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx"
+      },
+      "facilities" : {
+        "TB" : true,
+        "bed" : true,
+        "food" : true,
+        "pets" : true,
+        "shower" : true,
+        "wifi" : true
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "Undisclosed",
+      "name" : "Clackamas Women's Services",
+      "phone" : "(888) 654-2288",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.cwsor.org/"
+    },
+    "shelterInfo09" : {
+      "beds" : 0,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.43982, -122.779274 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "childcare" : true,
+        "food" : true,
+        "pets" : true,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 600,
+        "open" : 1000
+      },
+      "location" : "11130 SW Greenburg Road, Tigard OR",
+      "name" : "Good Neighbor Center",
+      "phone" : "(503) 443-6084",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.goodneighborcenter.org"
+    },
+    "shelterInfo10" : {
+      "beds" : 2,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.522548, -122.496927 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : true,
+        "pets" : false,
+        "shower" : false,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1900,
+        "open" : 700
+      },
+      "location" : "16141 E. Burnside St.",
+      "name" : "Family Winter Shelter",
+      "phone" : "(503) 555-1234",
+      "updatedAt" : 1417292810050,
+      "url" : "http://humansolutions.org/homelessness-services/warming-center-homeless-families.php"
+    },
+    "shelterInfo11" : {
+      "beds" : 2,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.523113, -122.476688 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "food" : true,
+        "pets" : false,
+        "shower" : false,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1900,
+        "open" : 700
+      },
+      "location" : "124 NE 181st",
+      "name" : "Family Winter Shelter",
+      "phone" : "(503) 405-7875",
+      "updatedAt" : 1417292810050,
+      "url" : "http://humansolutions.org/homelessness-services/warming-center-homeless-families.php"
+    },
+    "shelterInfo12" : {
+      "beds" : 2,
+      "coords" : {
+        ".priority" : "c20fby3rkx",
+        "g" : "c20fby3rkx",
+        "l" : [ 45.517543, -122.693438 ]
+      },
+      "facilities" : {
+        "TB" : false,
+        "bed" : true,
+        "children" : true,
+        "food" : true,
+        "pets" : false,
+        "shower" : true,
+        "wifi" : false
+      },
+      "hours" : {
+        "close" : 1200,
+        "open" : 1200
+      },
+      "location" : "1838 SW Jefferson",
+      "name" : "Goose Hollow Family Shelter",
+      "phone" : "(503) 915-8306",
+      "updatedAt" : 1417292810050,
+      "url" : "http://www.goosehollowfamilyshelter.org/"
+    }
+  },
+  "youth" : [ {
+    "address" : "1635 SW Alder St.",
+    "city" : "Portland",
+    "hours" : "Open 365 days a year 24/7",
+    "name" : "Access Center (Janus Youth)",
+    "notes" : "Access Center (Janus Youth) 1635 SW Alder St. Portland OR 97205-1811 503-432-3986 http://www.janusyouth.org Open 365 days a year 24/7 Transit: MAX to PGE Park, 20, 51 Entry point into crisis shelter and other Continuum services: 24-hour screening and referral to the youth support network. Services for young people ages 15-23. After 6 p.m. call Porch Light (503) 224-5988.",
+    "phone" : "503-432-3986",
+    "url" : "http://www.janusyouth.org",
+    "zip" : "97205-1811"
+  }, {
+    "address" : "424 NE 22nd",
+    "city" : "Portland",
+    "name" : "Albertina Kerr Center",
+    "notes" : "Albertina Kerr Center 424 NE 22nd Portland OR 503-239-8101 http://www.albetinakerr.org Transit: 12, 19, 20 Twenty-four hour care is provided for 52 children in group homes. Focus on basic life skills development, behavior management and socialization to live as independent adults. Youth ages 8 to 18.",
+    "phone" : "503-239-8101",
+    "url" : "http://www.albetinakerr.org"
+  }, {
+    "address" : "911 N. Skidmore St.",
+    "city" : "Portland",
+    "name" : "Albina Early Head Start",
+    "notes" : "Albina Early Head Start 911 N. Skidmore St. Portland OR 97217-3151 503-236-9389 http://www.albinaparents.org Transit: 4 Fessenden and MAX yellow line. 7 a.m.-5:30 p.m. Monday-Friday. Low cost childcare to 3 years of age, family advocacy and basic needs for enrolled families.",
+    "phone" : "503-236-9389",
+    "url" : "http://www.albinaparents.org",
+    "zip" : "97217-3151"
+  }, {
+    "hours" : "8:30 a.m.- 5 p.m.",
+    "name" : "Community Action",
+    "notes" : "Community Action 503-648-6646 8:30 a.m.- 5 p.m. Multiple services, including child care resources, Early Head Start and other services.",
+    "phone" : "503-648-6646"
+  }, {
+    "address" : "6601 NE Killingsworth (new permanent location)",
+    "city" : "Portland",
+    "hours" : "8 a.m. - 4:30, Mon-Fri during school year.",
+    "name" : "Community Transitional School",
+    "notes" : "Community Transitional School 6601 NE Killingsworth (new permanent location) Portland OR 503-249-8582 http://www.transitionalschool.org 8 a.m. - 4:30, Mon-Fri during school year. Transit: 72 School for children who are homeless, in housing transition or at risk of school failure. Serves children from Pre-K to 8th grade. Call for availablity of transportation pick up/drop off.",
+    "phone" : "503-249-8582",
+    "url" : "http://www.transitionalschool.org"
+  }, {
+    "address" : "4310 NE Killingsworth St.",
+    "city" : "Portland",
+    "hours" : "8 a.m. - 5 p.m. Mon-Fri",
+    "name" : "DePaul Treatment/Youth Program",
+    "notes" : "DePaul Treatment/Youth Program 4310 NE Killingsworth St. Portland OR 97218-1404 503-535-1181 http://www.depaultreatmentcenters.org 8 a.m. - 5 p.m. Mon-Fri Transit: 75, 72. Within the youth program, there are also gender-specific residential and outpatient programs that target youth ages 12 to 18. Alternative high school on site.",
+    "phone" : "503-535-1181",
+    "url" : "http://www.depaultreatmentcenters.org",
+    "zip" : "97218-1404"
+  }, {
+    "address" : "909 SW 11th Ave",
+    "city" : "Portland",
+    "hours" : "Tuesday evening 6:00-8:00pm",
+    "notes" : "Dinner & a Movie 909 SW 11th Ave Portland OR 503-734-9299 Tuesday evening 6:00-8:00pm Transit: Max Red, Blue, Streetcar, 15, 51 Youth program for youths age 24 and younger, includes a hot meal.",
+    "phone" : "503-734-9299"
+  }, {
+    "name" : "Elizabeth House",
+    "notes" : "Elizabeth House 503-236-7235 (MWF) 503-238-5196 (Intake) Maternity home for homeless women ages 14 to 22 years. Residents must be capable of independent group living and not have other children in their custody. Counceling and case-management services are provided.",
+    "phone" : "503-236-7235 (MWF) 503-238-5196 (Intake)"
+  }, {
+    "address" : "1410 SW Columbia",
+    "city" : "Portland",
+    "name" : "Fuego/Phoenix Rising Program",
+    "notes" : "Fuego/Phoenix Rising Program 1410 SW Columbia Portland OR 503-241-4357 http://www.gofuego.com Transit: Max Red, Blue, 6 Phoenix Rising Program offers mentorship and healing activities: theater, painting, music, yoga, among other programs. Case management; mediation services. Multicultural, at-risk youth are referred to Fuego from youth care system (schools, mental health agencies, foster care, etc.)",
+    "phone" : "503-241-4357",
+    "url" : "http://www.gofuego.com"
+  }, {
+    "address" : "738 NE Davis St.",
+    "city" : "Portland",
+    "hours" : "24 hour access for runaways, after 8 p.m. speak to crisis intervention specialist.",
+    "name" : "Harry's Mother",
+    "notes" : "Harry's Mother 738 NE Davis St. Portland OR 97232-2931 503-233-8111 http://www.janusyouth.org 24 hour access for runaways, after 8 p.m. speak to crisis intervention specialist. Transit: 6, 12, 19, 20. Short term shelter for ages 9-17 for case management (12-bed shelter available). Family counseling for ages 13-17.",
+    "phone" : "503-233-8111",
+    "url" : "http://www.janusyouth.org",
+    "zip" : "97232-2931"
+  }, {
+    "address" : "494 E. Main St.",
+    "city" : "Hillsboro",
+    "hours" : "6-8 p.m. Thursdays.",
+    "name" : "HomePlate",
+    "notes" : "HomePlate 494 E. Main St. Hillsboro OR 97123-4135 503-867-7762 http://www.homeplateyouth.com 6-8 p.m. Thursdays. Transit: MAX Blue Line Hillsoboro Central/SE 3rd Avenue Transit Center Station Meals, movies, showers, and socialization for youth ages 12-21. Located 2 blocks from the Hillsboro Transit Center, close to Max and Washington County bus lines.",
+    "phone" : "503-867-7762",
+    "url" : "http://www.homeplateyouth.com",
+    "zip" : "97123-4135"
+  }, {
+    "address" : "711 SE Ankeny",
+    "city" : "Portland",
+    "hours" : "9:00a.m.-5:00p.m., Mon.-Fri.",
+    "name" : "Insight Teen Parent Program",
+    "notes" : "Insight Teen Parent Program 711 SE Ankeny Portland OR 97214 503-239-6996 http://www.insightstpp.org 9:00a.m.-5:00p.m., Mon.-Fri. Transit: Trimet 12, 19, 20 9 a.m.-5 p.m. Monday-Friday. Services for teen parents and their partners who are under 21. Support for pregnant and parenting teens and their partners; case management; information and recreation. Call for screening/referral; no walk-ins.",
+    "phone" : "503-239-6996",
+    "url" : "http://www.insightstpp.org",
+    "zip" : "97214"
+  }, {
+    "address" : "401 NE 19th Ave #200",
+    "city" : "Portland",
+    "hours" : "8:30a.m.-5p.m. Mon.-Fri.; closed for lunch during noon hour.",
+    "name" : "Juvenile Rights Project",
+    "notes" : "Juvenile Rights Project 401 NE 19th Ave #200 Portland OR 97232-4800 503-232-2540, 866-608-1212 http://www.jrplaw.org 8:30a.m.-5p.m. Mon.-Fri.; closed for lunch during noon hour. Protects the rights of children and youth by providing information, referrals and advice on juvenile law. Offers legal services; family mediation; juvenile court petitions for abuse and neglect allegations, college scholarships for Oregon foster children, emancipation procedures for teens, housing issues for minors; public school enrollment; school discipline, including suspension and expulsion; special education law and the rights of parents/ children; independent living programs; and investigation of access to mental health services covered by OHP.",
+    "phone" : "503-232-2540, 866-608-1212",
+    "url" : "http://www.jrplaw.org",
+    "zip" : "97232-4800"
+  }, {
+    "address" : "4941 NE 17th Ave.",
+    "city" : "Portland",
+    "hours" : "8 a.m.-6 p.m. Monday-Friday.",
+    "name" : "Lifeworks NW Umoja Center",
+    "notes" : "Lifeworks NW Umoja Center 4941 NE 17th Ave. Portland OR 97211-5709 503-282-3296 http://www.lifeworksnw.org 8 a.m.-6 p.m. Monday-Friday. Transit: 8, 72. Mental health services for persons ages 3-18. Specialized service for at-risk African-American males Ages 11-18. Promotes the positive development of youth; reducing violence and abusive behaviors. Addiction and mental health treatment.",
+    "phone" : "503-282-3296",
+    "url" : "http://www.lifeworksnw.org",
+    "zip" : "97211-5709"
+  }, {
+    "address" : "14030 NE Sacramento St.",
+    "city" : "Portland",
+    "hours" : "8 a.m.- 4 p.m., Mon-Fri.",
+    "name" : "Multnomah Early Childhood Program",
+    "notes" : "Multnomah Early Childhood Program 14030 NE Sacramento St. Portland OR 503-262-4100 8 a.m.- 4 p.m., Mon-Fri. Special education program serving families with children with delays of disabilities up to age 5. Screening, evaluations and services are provided to families free of charge. Evaluation to determine eligibility. Community preschool for typically developing children ages 3-5. Outreach services provided throughout Multnomah County.",
+    "phone" : "503-262-4100"
+  }, {
+    "address" : "5135 NE Columbia Blvd.",
+    "city" : "Portland",
+    "hours" : "9a.m.-6p.m. Bus service; 75",
+    "name" : "Native American Youth and Family Services (NAYA)",
+    "notes" : "Native American Youth and Family Services (NAYA) 5135 NE Columbia Blvd. Portland OR 97218 Call for eligibility pre-screen. (503) 288-8177 Exts. 217/294 or Access Center (Janus Youth) (503) 432-3986. http://www.nayapdx.org 9a.m.-6p.m. Bus service; 75 Transit: 75 NAYA offers youth ages 13-24 who are homeless referrals into homeless youth continuum. Services include: shelter, outreach and engagement, skills development, and connection to basic needs.",
+    "phone" : "Call for eligibility pre-screen. (503) 288-8177 Exts. 217/294 or Access Center (Janus Youth) (503) 432-3986.",
+    "url" : "http://www.nayapdx.org",
+    "zip" : "97218"
+  }, {
+    "address" : "820 SW Oak St.",
+    "city" : "Portland",
+    "name" : "New Avenues for Youth",
+    "notes" : "New Avenues for Youth 820 SW Oak St. Portland OR 97205 503-517-3904 http://www.newavenues.org Transit: MAX Ages 17-24 for alternative school, transitional housing, hygiene, laundry and day services. Drop-in hours daily at Alternative school, 11-6 p.m. Mon., Wed., Sat. Hygiene services, laundry. Meals: 9-10 a.m., 1-2 p.m., 5-6 p.m. Mon-Fri., 11-noon, 5-6 p.m.",
+    "phone" : "503-517-3904",
+    "url" : "http://www.newavenues.org",
+    "zip" : "97205"
+  }, {
+    "address" : "1132 SW 13th Ave.",
+    "city" : "Portland",
+    "hours" : "1-8 p.m. Sunday-Friday.",
+    "name" : "Outside-In",
+    "notes" : "Outside-In 1132 SW 13th Ave. Portland OR 97205-1703 503-535-3800 http://www.outsidein.org 1-8 p.m. Sunday-Friday. Transit: Fareless square. Day services provide safety off the streets, food, crisis counseling and; employment services to increase work readiness, obtain and retain employment; education component helps youth obtain their GED and enter college. Transitional housing to qualified candidates.",
+    "phone" : "503-535-3800",
+    "url" : "http://www.outsidein.org",
+    "zip" : "97205-1703"
+  }, {
+    "address" : "338 NW 6th",
+    "city" : "Portland",
+    "hours" : "8:30 a.m.-2 p.m., Tuesday-Friday",
+    "notes" : "p:ear 338 NW 6th Portland OR 97209 503-228-6677 http://www.pearmentor.org 8:30 a.m.-2 p.m., Tuesday-Friday Transit: MAX, 9, 17, 33, 44 Ages 15-23 for education: GED preparation and other basic academic skills. Programs are taught by p:ear staff and a group of artists in the area of creative writing, photography, painting, sculpture, etc.. Recreation program takes youth to non-urban, natural settings.",
+    "phone" : "503-228-6677",
+    "url" : "http://www.pearmentor.org",
+    "zip" : "97209"
+  }, {
+    "address" : "4816 SE 92nd Ave.",
+    "city" : "Portland",
+    "hours" : "M-F 8:00a.m.-4:00p.m.",
+    "name" : "Portland Youth Builders",
+    "notes" : "Portland Youth Builders 4816 SE 92nd Ave. Portland OR 97266-2723 503-286-9350 ext. 254 http://www.pybpdx.org M-F 8:00a.m.-4:00p.m. Transit: 17, Max Green Helps youths ages 17-24 to finish school and get job skills. Sessions begin quarterly. Interested youth should attend informational meeting on Thurs. at 1p.m.",
+    "phone" : "503-286-9350 ext. 254",
+    "url" : "http://www.pybpdx.org",
+    "zip" : "97266-2723"
+  }, {
+    "address" : "820 SW Oak St.",
+    "city" : "Portland",
+    "name" : "Road Warriors (New Avenues for Youth)",
+    "notes" : "Road Warriors (New Avenues for Youth) 820 SW Oak St. Portland OR 503-517-3904 hours:At Outside In, 8-10 p.m. Sundays, 1132 SW 13th Ave. At New Avenues for Youth, 8-10 p.m., Wed. and Thur. 314 SW 9th Ave. Late night drop-in for youth & young adults 25 and younger (movies, first aid & hygiene supplies, showers, etc).",
+    "phone" : "503-517-3904"
+  }, {
+    "address" : "820 SW Oak St.",
+    "city" : "Portland",
+    "hours" : "At Outside In, 8-10 p.m. Sundays, 1132 SW 13th Ave.; At New Avenues for Youth, 7p.m.-9p.m., 820 SW Oak Ave.",
+    "name" : "Road Warriors (New Avenues for Youth)",
+    "notes" : "Road Warriors (New Avenues for Youth) 820 SW Oak St. Portland OR 503-224-4339 At Outside In, 8-10 p.m. Sundays, 1132 SW 13th Ave.; At New Avenues for Youth, 7p.m.-9p.m., 820 SW Oak Ave. Late night drop-in for youth & young adults 25 and younger (movies, first aid & hygiene supplies, showers, etc).",
+    "phone" : "503-224-4339"
+  }, {
+    "hours" : "24-hours",
+    "name" : "Safe Place for Youth",
+    "notes" : "Safe Place for Youth 503-442-4757 After hours crisis line 503-542-2389 http://www.boysandgirlsaid.org 24-hours Shelter and supportive service for homeless, runaway and at-risk youth ages 14-17, food and basic needs assistance, case management and referrals to community resources.",
+    "phone" : "503-442-4757 After hours crisis line 503-542-2389",
+    "url" : "http://www.boysandgirlsaid.org"
+  }, {
+    "address" : "2406 NE Sandy Blvd. Ste. 100",
+    "city" : "Portland",
+    "hours" : "4-9 p.m. Weds, Fri. & Sat.",
+    "name" : "Sexual and Gender Minority Youth Resource Center",
+    "notes" : "Sexual and Gender Minority Youth Resource Center 2406 NE Sandy Blvd. Ste. 100 Portland OR 97212 503-872-9664 503-969-2266 http://www.smyrc.org 4-9 p.m. Weds, Fri. & Sat. Transit: 12 GLBTQI ages 12-23; H.I.V. prevention, employment and drop in center. counseling available for all ages by appointment only.",
+    "phone" : "503-872-9664 503-969-2266",
+    "url" : "http://www.smyrc.org",
+    "zip" : "97212"
+  }, {
+    "address" : "1732 NE Alberta St.",
+    "city" : "Portland",
+    "name" : "Sisters in Action for Power",
+    "notes" : "Sisters in Action for Power 1732 NE Alberta St. Portland OR 97211-5802 503-331-1244 hours:9 a.m. to 6 p.m., Monday-Thursday, 9am - noon, Friday Develop the leadership, organizing and critical analysis skills of low income women and girls ages 10-18 in North and Northeast Portland. Volunteer opportunities: transportation, fundraising, event set up/clean up, Web site design",
+    "phone" : "503-331-1244",
+    "zip" : "97211-5802"
+  }, {
+    "address" : "8050 SE Roots Rd",
+    "city" : "Portland",
+    "hours" : "call for intake",
+    "name" : "Springwater Transitional Living",
+    "notes" : "Springwater Transitional Living 8050 SE Roots Rd Portland OR 97267 503 496 1160 x11 youth can ask for Jackie Curry to set up a screening http://www.theinnhome.org call for intake Transit: Bus 29, 75 Offering transitional living, case management, resources and referrals to youth 16-21 years old. Youth must have lived or gone to school in Clackamas County.",
+    "phone" : "503 496 1160 x11 youth can ask for Jackie Curry to set up a screening",
+    "url" : "http://www.theinnhome.org",
+    "zip" : "97267"
+  }, {
+    "address" : "1635 SW Alder St.",
+    "city" : "Portland",
+    "hours" : "Porchlight opens at 8:45 p.m.-8:30 a.m., Streetlight opens at 9 p.m.-9a.m.",
+    "notes" : "Street Light / Porch Light Youth Shelter 1635 SW Alder St. Portland OR 97205-1811 503-224-5988 Porchlight opens at 8:45 p.m.-8:30 a.m., Streetlight opens at 9 p.m.-9a.m. Street Light provides short-term housing for 30 homeless youth, ages 13 to 23, up to 1 year. Need reservation. Porch Light provides Emergency housing for 30 youth, ages 13 to 20, who are new to the streets or in immediate need of shelter and aid. Beds are distributed on a first-come-first-serve basis nightly through the Access Center 503-432-3986, and youth are expected to work on securing permanent housing.",
+    "phone" : "503-224-5988",
+    "zip" : "97205-1811"
+  }, {
+    "address" : "909 SW 11th Ave",
+    "city" : "Portland",
+    "hours" : "6-8:30 p.m., Sun., Mon. and Thursday.",
+    "name" : "Transitional Youth",
+    "notes" : "Transitional Youth 909 SW 11th Ave Portland OR 97205 503-350-7268 http://www.transitionalyouth.org 6-8:30 p.m., Sun., Mon. and Thursday. Transit: 4, 14, 33, Max Green Helps homeless youth obtain self-sufficiency through housing, outreach and support with a faith-based approach.",
+    "phone" : "503-350-7268",
+    "url" : "http://www.transitionalyouth.org",
+    "zip" : "97205"
+  }, {
+    "address" : "155 N First Avenue Suite160",
+    "city" : "Hillsboro",
+    "hours" : "Call for hours.",
+    "name" : "Washington County Intensive Service Array for Youth",
+    "notes" : "Washington County Intensive Service Array for Youth 155 N First Avenue Suite160 Hillsboro OR 97124-3072 503-846-4528 http://www.co.washington.or.us/HHS/MentalHealth/Treatment/children-intensive-ser... Call for hours. Transit: Max Blue to Hatfield Government Center The Intensive Services Array program provides care coordination and wraparound treatment planning for eligible youth. Services may include community based treatment, day treatment, treatment foster care, respite, psychiatric residential treatment, and flexibly tailored services.",
+    "phone" : "503-846-4528",
+    "url" : "http://www.co.washington.or.us/HHS/MentalHealth/Treatment/children-intensive-services.cfm",
+    "zip" : "97124-3072"
+  }, {
+    "hours" : "6:00p.m.-9:00p.m. Mobile unit downtown with outreach services 365 days.",
+    "name" : "Yellow Brick Road Outreach",
+    "notes" : "Yellow Brick Road Outreach 503-789-4011 http://www.janusyouth.org 6:00p.m.-9:00p.m. Mobile unit downtown with outreach services 365 days. First aid and hygiene supplies available. Nightly street outreach program focuses on providing information, referral and crisis intervention services directly to street-dependent youth.",
+    "phone" : "503-789-4011",
+    "url" : "http://www.janusyouth.org"
+  }, {
+    "address" : "19600 S. Molalla Ave.",
+    "city" : "Oregon City",
+    "name" : "Youth Parent Opportunity Program (YPOP)",
+    "notes" : "Youth Parent Opportunity Program (YPOP) 19600 S. Molalla Ave. Oregon City OR 97045 503-657-6958 Ext. 2592 Family Resource Center of Clackamas Community College. Helping young pregnant or parenting teens age 15-21 get a diploma or GED. Must enroll in community college and have referral from high-school.",
+    "phone" : "503-657-6958 Ext. 2592",
+    "zip" : "97045"
+  } ]
+}
