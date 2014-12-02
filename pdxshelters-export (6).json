@@ -266,11 +266,12 @@
     "zip" : "97209-3906"
   } ],
   "counseling" : [ {
-    "coords" : {
-      "l" : [ 45.496265, -122.628871 ]
-    },
+
     "address" : "3430 SE Powell Blvd",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.496258, -122.628855 ]
+    },
     "name" : "Asian Health and Service Center",
     "notes" : "Health and community services including: ESL classes, recreation and cultural activities, employment information and consultation, family and youth services, Chinese immersion preschool, mental health assessment/screening, individual and group therapy, case management, addiction assessment/screening/treatment, volunteer services, family caregiver program, womens health promotion project and emergency preparedness.",
     "phone" : "503-641-4113",
@@ -279,6 +280,9 @@
   }, {
     "address" : "2740 SE Powell Blvd, Suite #7",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.497589, -122.637909 ]
+    },
     "hours" : "8:30a.m.-5p.m. Mon-Fri.",
     "name" : "Catholic Charities Pregnancy Support and Adoption Services",
     "notes" : "Supportive services to expecting mothers, such as baby and maternity supplies, resource assistance in future planning, professional counseling, and parenting education. Adoption services provided at no cost. For adoptive families we offer: child centered adoptions, home study reports and post placement supervision, special needs adoption (through state foster care). Relationship counseling offered as well.",
@@ -288,6 +292,9 @@
   }, {
     "address" : "229 SE 181st Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520731, -122.477135 ]
+    },
     "hours" : "9:30 a.m - 5 p.m. Mon.-Fri",
     "name" : "Center for Family Success-Rockwood",
     "notes" : "Parenting Inside Out class for parents involved in the criminal justice system with children 18 or younger. Some Spanish-language classes available. Must live in Portland area. Priority given to mandated persons but not required. Free anger management classes.",
@@ -297,13 +304,21 @@
   }, {
     "address" : "12720 SW Pacific Hwy.",
     "city" : "Tigard",
+    "coords" : {
+      "l" : [ 45.427758, -122.776761 ]
+    },
     "hours" : "8:30 a.m.–8 p.m. Mon.-Wed., 8:30 a.m. – 5 p.m. Thurs. and Fri.",
+    "name" : "",
     "notes" : "Provides counseling for victims and offenders of sexual abuse. Psychological testing and evaluation, polygraph exams; anger management treatment. Victims (survivors) of sexual abuse are treated without charge.",
     "phone" : "503-657-0683",
+    "url" : "",
     "zip" : "97223"
   }, {
     "address" : "2051 Kaen Road Public Service Bldg-Rm 210",
     "city" : "Oregon City",
+    "coords" : {
+      "l" : [ 45.332969, -122.598663 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon & Wed; 8 a.m.-7 p.m. Tue & Thur; 8am-noon Fri.",
     "name" : "Clackamas County Family Court Services",
     "notes" : "Relationship and marital counseling for couples; family mediation for parents and children; divorce mediation. Fees: $80/hour, payment plans and waivers available; parent education class $60, but discounted if registered within 45 days of filing/ being served.",
@@ -313,6 +328,9 @@
   }, {
     "address" : "9340 SW Barnes Rd. Suite 100A",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.508761, -122.773580 ]
+    },
     "hours" : "Mon.-Fri., 9a.m.-4:30p.m.",
     "name" : "Community Action Opening Doors",
     "notes" : "Connects pregnant women and first time parents with prenatal care and other family services. Provides support, education and advocacy.",
@@ -322,23 +340,34 @@
   }, {
     "address" : "232 SE 80th St",
     "city" : "Portland",
+    "coords" : {
+      "l" : [  ]
+    },
     "hours" : "7:30-9 p.m., Thurs.",
     "name" : "Council for Prostitution Alternatives",
-    "notes" : "Helping women escape the sex trade. A drop-in center and safe environment where women meet with staff to explore alternatives to prostitution, receive counseling, and advcacy.",
+    "notes" : "Helping women escape the sex trade. A drop-in center and safe environment where women meet with staff to explore alternatives to prostitution, receive counseling, and advocacy.",
     "phone" : "971-275-5271",
     "url" : "http://www.prostitutionalternatives.org",
     "zip" : "97215"
   }, {
-    "address" : "230 NE 2nd Ave.",
+    "address" : "230 NE 2nd Ave., Suite E",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.524389, -122.987577 ]
+    },
     "hours" : "Mon.-Fri., 9a.m.=5p.m.",
+    "name" : "The Dougy Center, Linklater Commons",
     "notes" : "Provides grief support groups for children ages 3-18 and young adults ages 19-30 and their families who have experienced the death of a parent, sibling or a significant person in their life. Bilingual Spanish groups are provided regardless of ability to pay. Donations welcome.",
     "phone" : "503-775-5683 (Main Office) 866-775-5683 (Toll Free)",
     "url" : "http://www.dougy.org",
     "zip" : "97123"
   }, {
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [  ]
+    },
     "hours" : "9 a.m. - 5 p.m. Mon-Fri.",
+    "name" : "Domestic Violence Resource Center",
     "notes" : "Outreach services to victims of family violence; advocacy, education, and counseling. Adults 18 and older who have experienced family violence at any time in their life may enroll after meeting one-on-one with a counselor or advocate for intake appointment.",
     "phone" : "503-640-5352 Crisis Line 866-469-8600",
     "url" : "http://www.dvrc-or.org"
