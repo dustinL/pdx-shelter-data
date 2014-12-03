@@ -374,6 +374,9 @@
   }, {
     "address" : "1411 SW Morrison St. Suite 290",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521383, -122.686608 ]
+    },
     "hours" : "8:30a.m.-5:00p.m. Monday-Thursday and 8:30a.m.-4p.m.",
     "name" : "Elders in Action",
     "notes" : "Personal advocates for adults age 60+ in the area of housing, health care, crime and elder abuse.",
@@ -383,6 +386,9 @@
   }, {
     "address" : "10305 E. Burnside Street",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523282, -122.557166 ]
+    },
     "hours" : "Walk-In 9a-4p, M-F",
     "name" : "Gateway Center For Domestic Violence",
     "notes" : "Gateway Center for Domestic Violence Services aims to create a comprehensive, centrally located center for victims of domestic violence and their children for easier accessibility for information, referrals, resources and services.",
@@ -392,6 +398,9 @@
   }, {
     "address" : "7929 SW Cirrus Dr. Bldg 23",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.461730, -122.791829 ]
+    },
     "hours" : "8 a.m.- 9 p.m., Mon-Thurs.; 8 a.m.–5 p.m. Fri.; 10 a.m.-3 p.m.",
     "name" : "Good Samaritan Ministries",
     "notes" : "Faith base organization providing counseling, teacher training, and lay counselor training. Counseling includes: family, individual, marriage, men's, women's and teen groups and children; anger management and abuse recovery for offenders and victims.",
@@ -401,6 +410,9 @@
   }, {
     "address" : "900 SE Oak St. Ste. 202",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.518749, -122.975284 ]
+    },
     "hours" : "8:30 a.m. – 4:30 p.m. Mon- Fri.",
     "name" : "Hospice and Palliative Care of Washington County",
     "notes" : "A home-based program designed to meet the special physical needs of terminally ill patients and their families. Care is provided regardless of ability to pay. Call to set up appointments and nurse visit.",
@@ -410,12 +422,18 @@
   }, {
     "hours" : "Contact Harold Cubbedge, irontribe@clear.net 9 a.m. - 9 p.m. Monday - Sunday",
     "name" : "Iron Tribe Support Group",
+    "coords" : {
+      "l" : [  ]
+    },
     "notes" : "Ex-cons in recovery. Resource referrals, peer support, mentoring and fund-raising events.",
     "phone" : "503-754-3495 (Bear) 503-431-9182 (Shawn Bower)",
     "url" : "http://www.IRONTRIBENORTHWEST.org"
   }, {
     "address" : "1221 SW Yamhill St. Ste. 301",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520012, -122.684992 ]
+    },
     "hours" : "9 a.m.-5 p.m., Mon.-Thurs.; 9 a.m.-2 p.m., Fri.",
     "name" : "Jewish Family and Child Services",
     "notes" : "Individual, family, couples and group counseling, and parent coaching program. Services provided on a sliding scale. Home care for elderly and disabled. 10-minute phone call to assess clients needs.",
@@ -425,6 +443,9 @@
   }, {
     "address" : "905 NE 11th Ave. P.O. Box 6481",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.529449, -122.655414 ]
+    },
     "hours" : "Call for hours.",
     "name" : "Kids Need Both Parents",
     "notes" : "Counseling and weekly support groups for parents that are breaking up or divorcing and want to be active in their children's lives. Support group meets most monday evenings at 905 NE 11th Ave. from 7:00p.m.-9:00p.m. Please bring photo ID.",
@@ -434,14 +455,9 @@
   }, {
     "address" : "729 Molalla Ave. Ste. 8",
     "city" : "Oregon City",
-    "hours" : "9 a.m. – 5 p.m. Mon-Fri. Best to call first.",
-    "name" : "Men’s Resource Center and Women’s Counseling Center",
-    "notes" : "Anger management for men and women; domestic violence 48-week course with 3 month follow-ups. Alcohol and drug diversion on a sliding scale.",
-    "phone" : "503-235-4732 503-235-3433 (Women) 503-557-0802 (Men)",
-    "url" : "http://www.portlandmrc.com"
-  }, {
-    "address" : "729 Molalla Ave. Ste. 8",
-    "city" : "Oregon City",
+    "coords" : {
+      "l" : [ 45.344970, -122.596211 ]
+    },
     "hours" : "9 a.m. – 5 p.m. Mon-Fri. Best to call first.",
     "name" : "Men’s Resource Center and Women’s Counseling Center",
     "notes" : "Anger management for men and women; domestic violence 48-week course with 3 month follow-ups. Alcohol and drug diversion on a sliding scale.",
@@ -450,6 +466,9 @@
   }, {
     "address" : "14025 SW Farmington Rd. Ste. 160",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.486861, -122.821317 ]
+    },
     "hours" : "9:00a.m.-6:00p.m., Mon.-Fri.",
     "name" : "Morrison Child and Family Services",
     "notes" : "Outpatient counseling, including individual, group and family counseling as well as crisis intervention and case management. Se hable espanol.",
@@ -459,6 +478,9 @@
   }, {
     "address" : "1515 NE 41st Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.534113, -122.621598 ]
+    },
     "hours" : "Mon.-Thur., 10a-6p; Fri.-Sat., 10a-3p; Open house the second Tue. of month, 10a-1pm",
     "name" : "Mother and Child Education Center",
     "notes" : "Free and confidential pregnancy tests, clothing and supplies for pregnancy and nursing mothers. Small classes and workshops learning from both instructors and peers. Open house 2nd Saturday of every month.",
@@ -468,21 +490,32 @@
   }, {
     "address" : "1021 SW Fourth Ave. Rm 350",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.516099, -122.678152 ]
+    },
     "hours" : "8 a.m.-5 p.m. Monday-Friday",
     "name" : "Multnomah County Family Court Services",
     "notes" : "Parent education, family mediation, relationship counseling and child custody evaluations. Not individual counseling.",
     "phone" : "503-988-3189",
+    "url" : "",
     "zip" : "97204-1103"
   }, {
     "address" : "18680 SW Shaw St.",
     "city" : "Aloha",
+    "coords" : {
+      "l" : [ 45.493397, -122.869887 ]
+    },
     "hours" : "Mon.-Sat., 9a.m.-5p.m.; Sun., 2p.m.-3:30p.m. After hours by appointment only.",
+    "name" : "National Alliance on Mental Illness",
     "notes" : "Support and education to individuals with mental illness or families of youth with mental illness through classes, support groups, referral and advocacy help.",
     "phone" : "503-356-6835 Family/Consumer Line 800-343-6264 National Number",
-    "url" : "http://www.namiwash.org"
+    "url" : "http://www.nami.org"
   }, {
     "address" : "6200 SE King Road",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.447743, -122.598644 ]
+    },
     "hours" : "8 a.m.- 4:30 p.m., Mon.- Fri.",
     "name" : "Northwest Family Services",
     "notes" : "Free couples classes, parenting, job readiness and placement, youth programs, healthy relationship education. English and Spanish language services.",
@@ -491,15 +524,21 @@
   }, {
     "address" : "34420 SW Tualatin Valley Hwy.",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.519675, -123.031518 ]
+    },
     "hours" : "9 a.m. - 4:00 p.m. , Mon.-Fri. Lunch 12:00p.m.-1:00p.m. daily.",
-    "name" : "Open Door",
+    "name" : "Open Door Counseling Center",
     "notes" : "Mental health and housing counseling for homeless, advocacy, information/referral, food-boxes, day shelter, showers, laundry and community kitchen. No ID required. Boundaries: Cornelious, Banks, Forest Grove and Gaston areas only.",
-    "phone" : "503-640-6268",
+    "phone" : "503-640-6689",
     "url" : "http://www.opendoorcc.net",
     "zip" : "97123"
   }, {
     "address" : "222 SE 8th Ave. Ste 212",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.520987, -122.976882 ]
+    },
     "hours" : "Mon.,Wed, Thur, 9a.m.-9p.m.; Fri, 9a.m.-5p.m. Tue. 4 p.m.-9 p.m.",
     "name" : "Pacific Psychology Clinic-Pacific University",
     "notes" : "Mental health services- individual, family, child, and group therapy. Also psychological assessments, consultation services after telephone interview and scheduled appointment. Sliding scale fee, $20-$85.",
@@ -509,6 +548,9 @@
   }, {
     "address" : "615 SW Harrison Portland State University Graduate School of Education",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.511430, -122.683482 ]
+    },
     "hours" : "8 a.m.-9 p.m. Mon.-Fri., by appointment only.",
     "name" : "PSU Community Counseling Clinic",
     "notes" : "Individual, couple and family counseling. $15 per session, reduced fees negotiated, 10- week committment. Child counseling also available.",
@@ -518,6 +560,9 @@
   }, {
     "address" : "1827 NE 44th Ave. Suite 300",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.536238, -122.618154 ]
+    },
     "hours" : "9:00a.m.-4:00p.m., Mon.-Wed.; 9:00a.m.-3:00p.m., Thurs., Reception is closed on Fri.",
     "name" : "Resolutions Northwest",
     "notes" : "Neighborhood and interpersonal issues. No- and low-cost resolution services. Classes for mediation and conflict resolution, Spanish outreach, sliding scale.",
@@ -527,6 +572,9 @@
   }, {
     "address" : "627 NW 18th Ave",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.527603, -122.689706 ]
+    },
     "hours" : "9 a.m.- 12 p.m., Mon, Tues and Wed, Thurs. 9:30a-11:30a. Advocacy by appointment Tuesday",
     "name" : "Rose Haven",
     "notes" : "Women only: Assistance with referral for health care, nutrition, hygiene and clothing, advocacy services for housing and legal aid. Mailing address and voice mail.",
@@ -536,6 +584,9 @@
   }, {
     "address" : "4900 SW Griffith Dr. Ste. 100",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.484329, -122.794443 ]
+    },
     "hours" : "10 a.m.- 4 p.m., Monday-Friday",
     "name" : "Sexual Assault Resource Center (SARC)",
     "notes" : "Provides immediate 24hr response and support to sexually assaulted survivors. Case management, education and outreach programs, support groups and free mental health services. Se hable Espanol.",
@@ -545,14 +596,21 @@
   }, {
     "address" : "150 SE 80th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521264, -122.581278 ]
+    },
     "hours" : "9 a.m.-9 p.m., Mon.-Thurs.",
     "name" : "Sunnyside Counseling Center",
     "notes" : "Service clients 6 years and older. Depression, family and relationship counseling. $25 processing fee and sliding scale for remainder of care. Personality inventories at intake.",
     "phone" : "503-257-7572",
+    "url" : "",
     "zip" : "97215-1522"
   }, {
     "address" : "909 NW 24th Alano Club",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.529255, -122.700828 ]
+    },
     "hours" : "6-7:15 p.m., Wednesdays",
     "name" : "Survivors of Incest Anonymous",
     "notes" : "12-step support group.",
@@ -562,6 +620,9 @@
   }, {
     "address" : "155 N. 1st. Ave. Suite 250",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.523170, -122.990423 ]
+    },
     "hours" : "Call for specific hours.",
     "name" : "Washington County Alcohol/Drug/Gambling Addiction Services",
     "notes" : "Washington County's alcohol/drug/gambling/addiction program provides referrals to treatment, educational materials, presentations concerning addictions and information on treatment options in the county.",
@@ -570,21 +631,32 @@
   }, {
     "address" : "150 N First Ave. 1st Floor Victim’s Services",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.523478, -122.989247 ]
+    },
     "hours" : "8:30 a.m–4 p.m. Mon.-Fri.",
     "notes" : "Center for Victim Services offers assistance to survivors of crime and trauma, including individual, family and group counseling; information sessions for victims.",
     "phone" : "503-846-3724 (Counseling Line)",
+    "url" : "",
     "zip" : "97124"
   }, {
     "address" : "2901 E. Burnside St. at the Quest Center for Integrated Health",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523143, -122.635702 ]
+    },
     "hours" : "9am-12pm on Monday, 4-7 p.m. on Wednesday",
     "name" : "Women of Wisdom",
     "notes" : "Peer and community support for women living with HIV/AIDS. Clothing night for women and children once a month. Provide two meals a week. Massage and acupuncture once a week, by appointment.",
     "phone" : "503-238-5203",
+    "url" : "",
     "zip" : "97214-1831"
   }, {
     "address" : "447 SE Baseline St.",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.520486, -122.983420 ]
+    },
     "hours" : "9 a.m.–5 p.m. Mon.-Fri. Evening hours by appointment only.",
     "name" : "Youth Contact",
     "notes" : "Counseling services focusing on alcohol, drugs and dependence issues. Beaverton and Hillsboro youths (up to age 18) and their family, call or come in for intake; OHP and some private insurance accepted. Se hable espanol.",
@@ -609,6 +681,9 @@
   }, {
     "address" : "4701 SE Bush",
     "hours" : "Open school days only, 8:30 a.m.-3:30 p.m. Closed summers.",
+    "coords" : {
+      "l" : [  ]
+    },
     "name" : "Friends of Creston Dental Children's Clinic",
     "notes" : "Assistance League of Portland Dental Center at Creston School: Urgent and routine care for K-12 only. Must be in Portland Public Schools, receive free/reduced lunch and have no dental insurance. Call for appointment. $10 suggested donation.",
     "phone" : "503-916-5808",
