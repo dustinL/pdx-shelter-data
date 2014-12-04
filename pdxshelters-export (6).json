@@ -680,9 +680,10 @@
     "url" : "http://www.rosecityresource.org/resources/multnomah-county-resources/2085"
   }, {
     "address" : "4701 SE Bush",
+    "city" : "Portland",
     "hours" : "Open school days only, 8:30 a.m.-3:30 p.m. Closed summers.",
     "coords" : {
-      "l" : [  ]
+      "l" : [ 45.495460, -122.613806 ]
     },
     "name" : "Friends of Creston Dental Children's Clinic",
     "notes" : "Assistance League of Portland Dental Center at Creston School: Urgent and routine care for K-12 only. Must be in Portland Public Schools, receive free/reduced lunch and have no dental insurance. Call for appointment. $10 suggested donation.",
@@ -700,6 +701,10 @@
     "url" : "http://www.coalitionclinics.org/dental-resources.html"
   }, {
     "address" : "611 SW Campus Dr.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.498609, -122.684690 ]
+    },
     "hours" : "8 a.m. - 4:45 p.m., Mon.-Thurs.; 8 a.m.- 4 p.m., Fri.",
     "name" : "OHSU School of Dentistry",
     "notes" : "Call one day in advance at 8 a.m. for urgent care. Reduced fee, due at time of service (approximately 30 percent of private fees). Urgent care up to $216.00. Small clinic, limited availability.",
@@ -709,6 +714,10 @@
     "url" : "http://www.rosecityresource.org/resources/dental/1567"
   }, {
     "address" : "214 N Russell St.",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.540664, -122.668535 ]
+    },
     "hours" : "7:45 a.m.-5:00p.m., Monday-Friday; Sat. 8a.m.-1p.m. Walk in emergencies with $100-$200 due at time of service.",
     "name" : "Project Dental Health",
     "notes" : "Low-cost dental program for insured and uninsured people, including patients with HIV/AIDS. Proof of income requested. Sliding fee scale for enrolled patients. $59 for emergencies, plus additional costs for services $96-166 per tooth.",
@@ -721,12 +730,18 @@
     "address" : "3711 NE MLK Jr. Blvd.",
     "city" : "Portland",
     "name" : "Better People",
-    "notes" : "Helps people with legal histories find and retain jobs. Recently released and current parole participants have access to classes on interviewing skills and job application preparation. Downstairs through the Workforce One-Stop office.",
+    "coords" : {
+      "l" : [  ]
+    },
+    "notes" : "NO LONGER AT MLK LOCATION. Helps people with legal histories find and retain jobs. Recently released and current parole participants have access to classes on interviewing skills and job application preparation. Downstairs through the Workforce One-Stop office.",
     "phone" : "503-281-2663",
     "url" : "http://www.betterpeople.org"
   }, {
     "address" : "2 NW 2nd Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523372, -122.672137 ]
+    },
     "hours" : "7:30 a.m.-6 p.m; Monday-Thursday, 7:30a.m.-5p.m; Fridays. Orientation 9:45 a.m., Tuesdays; 1:45 p.m. Thursdays.",
     "name" : "CCC Employment Access Center",
     "notes" : "Provides employment workshops, job resource center, daily job announcements, career advancement and training services, employment-related housing and veterans' services, among others. Enroll to learn interviewing skills and prepare for job searches.",
@@ -736,6 +751,9 @@
   }, {
     "address" : "3945 SE Powell Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [  ]
+    },
     "hours" : "8 a.m.-5 p.m, Monday-Friday.",
     "name" : "Central Portland Vocational Rehabilitation Division",
     "notes" : "Our program is an employment program for people with disabilities who are interested in going to work. General orientation for new clients held 1:30 p.m. every Tuesday.",
