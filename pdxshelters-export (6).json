@@ -752,7 +752,7 @@
     "address" : "3945 SE Powell Blvd.",
     "city" : "Portland",
     "coords" : {
-      "l" : [  ]
+      "l" : [ 45.498081, -122.621214 ]
     },
     "hours" : "8 a.m.-5 p.m, Monday-Friday.",
     "name" : "Central Portland Vocational Rehabilitation Division",
@@ -763,6 +763,9 @@
   }, {
     "address" : "19600 S Molalla Ave",
     "city" : "Oregon City",
+    "coords" : {
+      "l" : [ 45.322051, -122.578375 ]
+    },
     "hours" : "Call for hours.",
     "name" : "Clackamas Community College Career Center",
     "notes" : "Career Center.",
@@ -771,6 +774,9 @@
   }, {
     "address" : "19600 S Molalla Ave",
     "city" : "Oregon City",
+    "coords" : {
+      "l" : [ 45.322051, -122.578375 ]
+    },
     "hours" : "Call for hours.",
     "name" : "Clackamas Community College WIA Program",
     "notes" : "WIA Program.",
@@ -779,6 +785,9 @@
   }, {
     "address" : "4950 NE Martin Luther King Jr. Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.558950, -122.661212 ]
+    },
     "hours" : "8 a.m.-5 p.m, Monday-Friday. Please Call for an Appointment.",
     "name" : "DePaul Industries",
     "notes" : "Temporary staffing service specializing in employing the disabled or people in recovery. All are welcome. The programs are individualized and can accommodate those with special needs, including hearing impairment and visual impairment. Employment options for people with all kinds of disabilities, including injury and illness related disabilities. Security and clerical job training and placements.",
@@ -788,6 +797,9 @@
   }, {
     "address" : "1532 NE 37th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.534471, -122.624791 ]
+    },
     "hours" : "By Referral only. See website/Call for referring agency.",
     "name" : "Dress For Success",
     "notes" : "Resources and support to help low income women successfully enter the workforce. We offer professional clothing for job interviews and the workplace, and assistance with resume preparation and job search in our career center. Once employed, we provide retention resources, training and mentoring through our Professional Women's Group.",
@@ -796,6 +808,9 @@
     "zip" : "97232"
   }, {
     "address" : "3715 SE Cesar Chavez Blvd. Suite 300C",
+    "coords" : {
+      "l" : [ 45.495894, -122.622660 ]
+    },
     "city" : "Portland",
     "hours" : "Mon.-Fri.; 8:30a.m.-5:00p.m.",
     "name" : "Easter Seals Latino Connection Program",
@@ -806,6 +821,9 @@
   }, {
     "address" : "10011 SE Divison St Suite 101",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.504020, -122.559771 ]
+    },
     "hours" : "8:30a.m.-4:30p.m., Mon.-Fri.",
     "name" : "Easter Seals Senior Community Services Employment Program",
     "notes" : "Senior community service employment program for persons aged 55+. Supports include; money management program, post-stroke support group, therapy pool, summer camp for disabled children and adults.",
@@ -815,6 +833,10 @@
   }, {
     "address" : "5251 NE Glisan St. #A-203",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.526745, -122.609159 ]
+    },
+    "name" : "Epilepsy Foundation Northwest",
     "hours" : "Call for appointment and intake.",
     "notes" : "Employment assistance for people diagnosed with epilepsy. Call for appointment for intake meeting.",
     "phone" : "503-228-7651",
@@ -823,6 +845,9 @@
   }, {
     "address" : "1737 NW 26th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.530593, -122.704638 ]
+    },
     "hours" : "8:30 a.m.- 5:00 p.m. Mon-Fri.",
     "name" : "Friendly House",
     "notes" : "Housing assistance, case management, art therapy classes, referrals and information related to job training and more",
@@ -832,12 +857,20 @@
   }, {
     "address" : "1943 SE 6th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.508996, -122.660266 ]
+    },
     "hours" : "Call for appointments 8 a.m. or 4 p.m, Monday-Friday.",
     "name" : "Goodwill Job Connection",
     "notes" : "Jobs available at stores or donation centers, and free employment service in the community.",
     "phone" : "503-239-1734; 1-877-676-5872",
     "url" : "http://www.meetgoodwill.org"
   }, {
+    "address" : "12350 SE Powell Blvd",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.496989, -122.535775 ]
+    },
     "hours" : "Hours: 9a.m.-5p.m.",
     "name" : "Human Solutions-Living Solutions",
     "notes" : "Living Solutions offers employment training for low-income families in Gresham. Services include: GED preparation classes, assists with work searches, resume building; participants receive job coaching and career training. Call for eligibility pre-screen. Orientation is required and available. Services available in English/Spanish.",
@@ -846,6 +879,9 @@
   }, {
     "address" : "1130 SW Morrison Suite 240",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520410, -122.683892 ]
+    },
     "hours" : "8am-5pm Mon-Fri",
     "name" : "Job Corps",
     "notes" : "Job Corps provides hands-on career training for 30 trades for economically disadvantaged young adults 16-24. Students can also complete their GED and receive their high school diploma at the Center. Residential training program, food, clothing; informational meeting every Tue.",
@@ -855,6 +891,9 @@
   }, {
     "address" : "5312 NE 148th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.561259, -122.509416 ]
+    },
     "hours" : "hours:8 a.m.-5 p.m, Monday-Friday.",
     "name" : "Portland Habilitation Center Northwest",
     "notes" : "Training and employment in janitorial, landscape and clerical work. Opportunities for disabled people. An equal opportunity employer. Low-cost apartments available.",
@@ -864,6 +903,9 @@
   }, {
     "address" : "2101 NE Flanders St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.525980, -122.644443 ]
+    },
     "hours" : "8:30 a.m.-4:30 p.m, Monday-Friday.",
     "name" : "Senior Community Service Employment Program",
     "notes" : "A Title V training program free for senior citizens 55 and older. Promotes older workers as a solution for businesses seeking a trained, qualified, and reliable workforce. Facilitates economic self-sufficiency for older individuals and their families who are working.",
@@ -873,6 +915,9 @@
   }, {
     "address" : "241 SW Edgeway Drive",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.517710, -122.869896 ]
+    },
     "hours" : "Call for hours.",
     "name" : "State of Oregon Employment Offices",
     "notes" : "Oregon labor market information system and job search database.",
@@ -882,6 +927,9 @@
   }, {
     "address" : "19421 SE Stark St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.519400, -122.462328 ]
+    },
     "hours" : "Call for hours.",
     "name" : "State of Oregon Employment Offices",
     "notes" : "Oregon labor market information system and job search database.",
@@ -891,6 +939,9 @@
   }, {
     "address" : "30 N Webster Suite E.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.559505, -122.667698 ]
+    },
     "hours" : "Call for hours.",
     "name" : "State of Oregon Employment Offices",
     "notes" : "Oregon labor market information system and job search database.",
@@ -900,6 +951,9 @@
   }, {
     "address" : "211 NW Davis United States",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.524548, -122.672528 ]
+    },
     "name" : "Street Roots",
     "notes" : "Immediate job opportunities through vendor program. Orientations 1 p.m., Mon., Wed. and Fri.",
     "phone" : "503-228-5657",
@@ -908,6 +962,9 @@
   }, {
     "address" : "240 NE MLK Jr. Blvd.,",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.524797, -122.661273 ]
+    },
     "hours" : "7a.m.-2p.m., Mon.-Sat.",
     "notes" : "VOZ Workers’ Rights Education Project is a worker-led organization that empowers immigrants and day laborers to gain control over their working conditions. VOZ operates at Martin Luther King, Jr. Worker Center, which finds hundreds of workers a month jobs for local homeowners and small businesses. To find work through the Worker Center, please arrive by 7:00 a.m. for paperwork and raffle. Work is assigned by raffle for general labor and requests for specializations.",
     "phone" : "503-234-2043 (Worker Center) 503-233-6787 (Admin)",
@@ -916,6 +973,9 @@
   }, {
     "address" : "506 High Street",
     "city" : "Oregon City",
+    "coords" : {
+      "l" : [ 45.355875, -122.607757 ]
+    },
     "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
     "name" : "WorkSource Oregon Employment Department",
     "notes" : "Oregon labor market information system and job search database.",
@@ -925,6 +985,9 @@
   }, {
     "address" : "265 SE Oak St Suite A",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.519184, -122.986724 ]
+    },
     "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
     "name" : "WorkSource Oregon Employment Department",
     "notes" : "Oregon labor market information system and job search database.",
@@ -934,6 +997,9 @@
   }, {
     "address" : "7995 SW Mohawk St",
     "city" : "Tualatin",
+    "coords" : {
+      "l" : [ 45.377227, -122.759611 ]
+    },
     "hours" : "Clackamas One-Stop Center: 8-5 Monday-Friday; Call for hours at other locations.",
     "name" : "WorkSource Oregon Employment Department",
     "notes" : "Oregon labor market information system and job search database.",
@@ -943,6 +1009,9 @@
   }, {
     "address" : "26000 SE Stark St.",
     "city" : "Gresham",
+    "coords" : {
+      "l" : [ 45.515985, -122.394955 ]
+    },
     "hours" : "8 a.m.-5 p.m., Tuesday-Friday, 9 a.m.-5 p.m. Monday; Lunch, noon-1 p.m.",
     "name" : "Youth Employability Support Services (YESS)",
     "notes" : "Helps youth find work, acquire skills, and finish GED program. Ages 16-21 only.",
