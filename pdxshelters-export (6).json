@@ -1022,6 +1022,9 @@
   "healthcare" : [ {
     "address" : "421 SW Oak St. Ste. 510",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521510, -122.675494 ]
+    },
     "name" : "Aging and Disability Services",
     "notes" : "Provides information assistance and all services to support all seniors and people with disabilities and their caregivers in asses their needs. Identify services available for meeting their needs and linking the person/caregiver to those services.",
     "phone" : "503-988-3646",
@@ -1030,6 +1033,9 @@
   }, {
     "address" : "621 SW Alder St. Suite 520",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520014, -122.678761 ]
+    },
     "hours" : "9a-6:30p, M-Thurs; 9a-5p, Friday.",
     "notes" : "Monday-Friday. Drug and alcohol treatment, free gambling treatment program, mental health services.",
     "phone" : "503-494-4745",
@@ -1038,6 +1044,9 @@
   }, {
     "address" : "4212 SE Division St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.505237, -122.618522 ]
+    },
     "hours" : "7 a.m.-10:00 p.m. 7 days a week.",
     "name" : "Cascadia Urgent Walk-in Clinic/Referral service",
     "notes" : "Mental health services for adults, children, and families; walk-ins welcome. Access information and referral line for Cascadia's services in housing, recovery and assistance.",
@@ -1046,7 +1055,10 @@
     "zip" : "97206-1600"
   }, {
     "address" : "10300 SW Eastridge St",
-    "city" : "Beaverton",
+    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.505921, -122.783055 ]
+    },
     "hours" : "Call for Assessment.",
     "name" : "Cedar Hills Hospital",
     "notes" : "Cedar Hills Hospital is a private psychiatric hospital specializing in the treatment of mental health and chemical dependency. Cedar Hills provides Inpatient, Partial Hospitalization and Intensive Outpatient Programs. All major insurance, Medicare & TRICARE are accepted. FREE Confidential Assessment 24/7.",
@@ -1056,6 +1068,9 @@
   }, {
     "address" : "27 NE Killingsworth St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.562861, -122.666135 ]
+    },
     "hours" : "Our hours are Mon-Fri., 9:00 to 5:00. We have physicians 5 days per week. Appointments are scheduled from 9:00 to 3:30. Walk-ins are available on Tuesdays, Thursdays, and Fridays.",
     "name" : "Children's Community Clinic",
     "notes" : "Health center for low income families. Sliding scale to age 21 only, for the under/uninsured only. Accepts Oregon Health Plan and other insurance.",
@@ -1065,6 +1080,9 @@
   }, {
     "address" : "8800 SE 80th (at Cornwell, next to Johnson Creek Fred Meyer)",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.460201, -122.581124 ]
+    },
     "hours" : "1-4:30 p.m. Tue & Thurs.",
     "name" : "Clackamas Service Center",
     "notes" : "Outside-in health van.",
@@ -1084,6 +1102,9 @@
   }, {
     "address" : "511 SW 10th Ave #905",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.521259, -122.681797 ]
+    },
     "hours" : "8:30 a.m.-5 p.m. Mon.-Fri.; 8 a.m.-2 p.m. Sat.",
     "name" : "Downtown Women's Center",
     "notes" : "Free pregnancy testing, abortions, counseling; parental consent needed for persons under 15. Birth control options counseling; Emergency contraception is also available at the clinic.",
@@ -1093,6 +1114,9 @@
   }, {
     "address" : "266 W Main St.",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.522416, -122.992739 ]
+    },
     "hours" : "Hillsboro: 5 p.m. Mon and Thurs; Tigard: 5 p.m. Wed",
     "name" : "Essential Health Clinic",
     "notes" : "Offers free urgent health care to uninsured and/or low income individuals and families in Washington County. Walk-in patients accepted three times a week at the two locations and medical services provided free of charge. Se hable espanol.",
@@ -1100,14 +1124,11 @@
     "url" : "http://www.essentialhealthclinic.org",
     "zip" : "97123"
   }, {
-    "hours" : "Hillsboro: 5 p.m. Mon and Thurs; Tigard: 5 p.m. Wed",
-    "name" : "Essential Health Clinic",
-    "notes" : "Offers free urgent health care to uninsured and/or low income individuals and families in Washington County. Walk-in patients accepted three times a week at the two locations and medical services provided free of charge. Se hable espanol.",
-    "phone" : "503-846-4919",
-    "url" : "http://www.essentialhealthclinic.org"
-  }, {
     "address" : "18000 SE Stark St",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.518926, -122.477963 ]
+    },
     "hours" : "Call for hours.",
     "name" : "Good News Community Health Center",
     "notes" : "Blood pressure screening, prescription assistance, and diabtes clinic. Uninsured Clackamas residents welcome.",
@@ -1116,6 +1137,9 @@
   }, {
     "address" : "315 SW 4th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520952, -122.675511 ]
+    },
     "hours" : "Mon-Fri. 7:30 a.m. - 7 p.m., Closed 12:30- 2 p.m. Last appointment at 6 p.m.",
     "name" : "Health Centers of UWS",
     "notes" : "Sliding fee services by interns.",
@@ -1124,6 +1148,9 @@
   }, {
     "address" : "6736 NE Killingsworth (Baltazar Oritz Community Center)",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.562440, -122.593228 ]
+    },
     "hours" : "Baltazar Ortiz Community Center: 6736 NE Killingsworth, 1st Thursday, 11a.m.-1p.m.",
     "name" : "Josiah Hill III Clinic",
     "notes" : "Lead poisoning prevention counseling and free testing for children under 6 and nursing and pregnant mothers. Education and resources for families with small children living in any dwellings. Mobile blood lead testing available. For Schedule of clinics please go to the web site.",
@@ -1131,17 +1158,11 @@
     "url" : "http://www.jhillclinic.org",
     "zip" : "97218"
   }, {
-    "address" : "77 NE Knott (Matt Dishman Community Center)",
+    "address" : "1200 NW 23rd Ave.",
     "city" : "Portland",
-    "hours" : "Baltazar Ortiz Community Center: 6736 NE Killingsworth, 1st Thursday, 11a.m.-1p.m.",
-    "name" : "Josiah Hill III Clinic",
-    "notes" : "Lead poisoning prevention counseling and free testing for children under 6 and nursing and pregnant mothers. Education and resources for families with small children living in any dwellings. Mobile blood lead testing available. For Schedule of clinics please go to the web site.",
-    "phone" : "503-802-7389",
-    "url" : "http://www.jhillclinic.org",
-    "zip" : "97212"
-  }, {
-    "address" : "1200 NW 23nd Ave.",
-    "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.531477, -122.698419 ]
+    },
     "hours" : "8 a.m. to 5 p.m. Monday-Friday.",
     "name" : "Legacy Clinic at Good Samaritan",
     "notes" : "General medicine, diabetes and pre/post surgery consultations by referral only. No pediatrics or obstetrics. Appointment only. Financial assistance availble to those who qualify.",
@@ -1156,6 +1177,9 @@
   }, {
     "address" : "15 N. Morris St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.544844, -122.667024 ]
+    },
     "hours" : "8 a.m.-5 p.m. Monday-Friday; Evening medical clinic, 8a.m.-7:30p.m.",
     "name" : "NARA Indian Health Clinic",
     "notes" : "Full service medical clinic, free to tribal members and descendents (others by sliding scale, $20 min).",
@@ -1163,8 +1187,11 @@
     "url" : "http://www.naranorthwest.org/clinic.htm",
     "zip" : "97227-1541"
   }, {
-    "address" : "3030 Martain Luther King Jr. Blvd.",
+    "address" : "3030 Martin Luther King Jr. Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.545170, -122.661153 ]
+    },
     "hours" : "5:30-8:30 p.m. Thursday.",
     "name" : "North by Northeast Community Health",
     "notes" : "Serves North and inner Northeast Portland. Health services (health history review, blood pressure screening, acute care for minor illness and injures) for low-income, uninsured adult residents of the 97211, 97212, 97217, 97227 and 97203 zip codes.",
@@ -1174,6 +1201,9 @@
   }, {
     "address" : "621 SW Alder St. Suite 520",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520006, -122.678782 ]
+    },
     "hours" : "8:30 a.m.-5 p.m., Monday-Friday",
     "name" : "OHSU Behavioral Health Clinic",
     "notes" : "Outpatient psychiatry, drug and alcohol counseling and treatment, sliding scale fee.",
@@ -1183,6 +1213,9 @@
   }, {
     "address" : "727 W Burnside St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523290, -122.678109 ]
+    },
     "hours" : "8:00 am - 9:00 pm M-F primary care, 5-9 M-F and 1-5 Sat for urgent care.",
     "name" : "Old Town Clinic",
     "notes" : "Primary health care with integrated mental health services. Clinic open to new patients, OHP or Medicare. Sliding scale for qualified clients.",
@@ -1205,6 +1238,9 @@
   }, {
     "address" : "1132 SW 13th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.517565, -122.686500 ]
+    },
     "hours" : "8:30 a.m.-until full; Monday-Friday; additional 5:30 p.m. Monday and Wednesday until full. Every 2nd Tues. of month open at 12:00 noon.",
     "name" : "Outside In",
     "phone" : "503-535-3800",
@@ -1213,6 +1249,9 @@
   }, {
     "address" : "5525 SE Milwaukie Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.482549, -122.649868 ]
+    },
     "hours" : "9 a.m.-5 p.m. Monday-Friday.",
     "name" : "Partnership Project",
     "notes" : "HIV case management, advice on healthy options for prevention; risk reduction services. Referrals or help in coordinating medical, mental health and other social service systems.",
@@ -1222,6 +1261,9 @@
   }, {
     "address" : "12220 SW First Suite 200",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.485860, -122.802430 ]
+    },
     "hours" : "8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
     "name" : "Planned Parenthood Beaverton Health Center",
     "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
@@ -1231,6 +1273,9 @@
   }, {
     "address" : "3727 NE Martin Luther King Jr. Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.549701, -122.661793 ]
+    },
     "hours" : "Mon & Wed.;8:30 a.m.–6:30 p.m.; Tue., Thur., Fri & Sat 8:30 a.m.–4:30 p.m.; Sun Closed. Beaverton Health Center-12220 SW First, Suite 200: 8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
     "name" : "Planned Parenthood NE",
     "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
@@ -1240,6 +1285,9 @@
   }, {
     "address" : "3231 SE 50th Ave",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.499150, -122.611641 ]
+    },
     "hours" : "SE Clinic Mon. 8:30 a.m.-5:00 p.m; Tue & Thu 9:30 a.m.-6:00 p.m.; Wed 7:30 a.m.-5:00 p.m.; Fri.-Sun. 8:30 a.m. – 5:00 p.m. Beaverton Health Center-12220 SW First, Suite 200: 8a.m.-6p.m. Mon.-Thurs.; 7:30a.m.-5p.m. Fri.; 9a.m.-5p.m. Sat. & Sun.",
     "name" : "Planned Parenthood SE",
     "notes" : "Free or low-cost birth control and annual exams; Free pregnancy testing & options information; STD testing and treatment, HIV testing; Breast and cervical cancer screening; Vasectomy; Early abortion care. Appointments or walk-ins. All services are confidential and low cost. Funding programs available; we accept insurance.",
@@ -1249,6 +1297,9 @@
   }, {
     "address" : "11020 NE Halsey Blvd.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.533177, -122.549552 ]
+    },
     "hours" : "9 a.m.-Noon., Monday-Friday;",
     "name" : "Portland Adventist Community Services",
     "phone" : "503-252-4589",
@@ -1257,6 +1308,9 @@
   }, {
     "address" : "2901 E Burnside",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523210, -122.635652 ]
+    },
     "hours" : "Monday-Friday 8:30 a.m. - 5 p.m.",
     "name" : "Quest Center for Integrative Health",
     "notes" : "Mental health services, osteopathic doctor on-site, support groups, yoga and meditation classes, community groups, naturopath and massage therapy.",
@@ -1266,6 +1320,9 @@
   }, {
     "address" : "30 SW 2nd Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.522633, -122.672268 ]
+    },
     "hours" : "Harbor Lights hours: 1:15 p.m. - 3:15 p.m. Monday, Wednesday, and Friday; Mobile Medical Van hours: 1:15 p.m. - 3:15 p.m. Thursday.",
     "name" : "Salvation Army",
     "phone" : "503-239-1264",
@@ -1274,6 +1331,9 @@
   }, {
     "address" : "4585 SW 185th Ave.",
     "city" : "Aloha",
+    "coords" : {
+      "l" : [ 45.486607, -122.867732 ]
+    },
     "hours" : "Call for Hours.",
     "name" : "Sequoia Mental Health Services",
     "notes" : "SMHS is based in Beaverton, Oregon and serves adults with severe and persistent mental illness in Washington County. Services provided by SMHS are funded through a variety of public funds including Medicaid, OHP, Medicare and some commercial insurance. Services can include Individual/Group Therapy, Family Education/Therapy, Case Management : Intensive Community Outreach, Alcohol and Drug Treatment, Psychiatric Medication Management, and Supported Employment.",
@@ -1283,20 +1343,31 @@
   }, {
     "address" : "330 SE 11th Ave.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520547, -122.654166 ]
+    },
     "hours" : "Doctor: 1:30 - 4 p.m. Tuesday and Thursday Social worker: 11 a.m. - 5 p.m. Monday, 2 - 5 p.m. Thursday",
     "notes" : "Multnomah County medical doctor on-site 2 times a week for basic medical care. County social worker twice a week for face-to-face assistance.",
     "phone" : "503-234-2028",
-    "zip" : "97214-1317"
+    "zip" : "97214-1317",
+    "url" : "",
   }, {
     "address" : "426 SW Stark 3rd floor",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520537, -122.676097 ]
+    },
     "name" : "TB Program",
     "notes" : "hours:8 a.m.-5 p.m. Mon, Wed-Fri. Information on getting TB screening tests, treatment and x-rays. Call for appointment.",
     "phone" : "503-988-3417",
-    "zip" : "97204-2347"
+    "zip" : "97204-2347",
+    "url" : "",
   }, {
     "address" : "221 W Burnside St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523313, -122.672909 ]
+    },
     "hours" : "Mon.-Fri., 7:30a.m.-6:00p.m.; Closed from 12:30p.m.-1:30p.m.",
     "notes" : "Free services by interns from the Western States Chiropractic College.",
     "phone" : "503-223-2213",
@@ -1305,6 +1376,9 @@
   }, {
     "address" : "2935 SW Cedar Hills Blvd (Beaverton Clinic)",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.499296, -122.810289 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
     "name" : "Virginia Garcia Memorial Health Centers",
     "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
@@ -1314,6 +1388,9 @@
   }, {
     "address" : "85 N 12th Ave (Cornelius Clinic)",
     "city" : "Cornelius",
+    "coords" : {
+      "l" : [ 45.520649, -123.057640 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
     "name" : "Virginia Garcia Memorial Health Centers",
     "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
@@ -1323,6 +1400,9 @@
   }, {
     "address" : "44 N 11th (Cornelius Dental/Vision)",
     "city" : "Cornelius",
+    "coords" : {
+      "l" : [ 45.520314, -123.058018 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
     "name" : "Virginia Garcia Memorial Health Centers",
     "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
@@ -1332,6 +1412,9 @@
   }, {
     "address" : "226 SE 8th Ave (Hillsboro Clinic and OB)",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.520808, -122.976683 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
     "name" : "Virginia Garcia Memorial Health Centers",
     "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
@@ -1341,6 +1424,9 @@
   }, {
     "address" : "730 SE Oak St. Ste. AB (Hillsboro Dental)",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.518310, -122.978687 ]
+    },
     "hours" : "8 a.m.-5 p.m. Mon and Fri; 10 a.m.-7 p.m. Tues and Thurs; 9 a.m.-5 p.m. Wed.",
     "name" : "Virginia Garcia Memorial Health Centers",
     "notes" : "Provides high quality, comprehensive and culturally appropriate primary healthcare to the communities of Washington and Yamhill Counties with a special emphasis on migrant and seasonal farmworkers and others with barriers to receiving health care.",
@@ -1350,6 +1436,9 @@
   }, {
     "address" : "727 W Burnside",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.523268, -122.678088 ]
+    },
     "hours" : "Downtown: Thursdays, 6:30 p.m. - 8:00 p.m. (must make appointment); Gresham: Mondays, Wednesdays, starting at 6 p.m. (appointment necessary).",
     "name" : "Wallace Medical Concern",
     "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month. Must make appointment. Se Habla espanol.",
@@ -1359,6 +1448,9 @@
   }, {
     "address" : "254 NW Burnside Rd",
     "city" : "Gresham",
+    "coords" : {
+      "l" : [ 45.509425, -122.433433 ]
+    },
     "hours" : "Downtown: Thursdays, 6:30 p.m. - 8:00 p.m. (must make appointment); Gresham: Mondays, Wednesdays, starting at 6 p.m. (appointment necessary).",
     "name" : "Wallace Medical Concern",
     "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month. Must make appointment. Se Habla espanol.",
@@ -1368,6 +1460,9 @@
   }, {
     "address" : "254 NW Burnside Rd",
     "city" : "Gresham",
+    "coords" : {
+      "l" : [  ]
+    },
     "hours" : "6:30 p.m.-8 p.m. No appointment necessary.",
     "notes" : "Basic urgent care: fevers, respiratory infections, bladder infections, ear infections, skin rashes. Dermatology and podiatry services twice a month.",
     "phone" : "503-489-1760",
@@ -1376,25 +1471,40 @@
   }, {
     "address" : "12550 SW 2nd Street",
     "city" : "Beaverton",
+    "coords" : {
+      "l" : [ 45.485456, -122.805529 ]
+    },
     "hours" : "Monday, Thursday & Friday: 8 a.m. – noon, 1 p.m. --5 p.m. Tuesday: 10 a.m. -- 2 p.m., 3 -- 7 p.m. Fourth Wednesday same as Monday. All other Wednesdays only 1 p.m. -- 5 p.m.",
     "notes" : "The department of health clinic provides birth control, annual exams and tests for sexually transmitted disease, pregnancy and HIV with counseling and immunizations.",
     "phone" : "503-846-8881",
+    "url" : "",
     "zip" : "97005"
   }, {
     "address" : "266 W. Main St.",
     "city" : "Hillsboro",
+    "coords" : {
+      "l" : [ 45.522408, -122.992739 ]
+    },
+    "name" : "",
     "hours" : "Monday, Thursday & Friday: 8 a.m. – noon, 1 p.m. -- 5 p.m. Tuesday: 10 am -- 2 p.m. Fourth Wednesday same as Monday. All other Wednesdays: 1 p.m. -- 5 p.m. only. Teen Clinic Only on Tuesday from 3 p.m. to 7 p.m.",
     "notes" : "The Department of Health clinic provides birth control, annual exams, and tests for sexually transmitted disease, pregnancy, and HIV with counseling and immunizations. The health clinic also hosts a \"teen clinic\" on Tues.",
     "phone" : "503-846-8881",
+    "url" : "",
     "zip" : "97124"
   }, {
     "address" : "15296 SW Royalty Parkway",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.408623, -122.792569 ]
+    },
     "hours" : "Monday & Friday: 8 a.m. – noon, 1 p.m. -- 5 p.m. Tuesday: 10 a.m. -- 2 p.m. First Wednesday same as Monday. All other Wednesdays only 1 p.m. -- 5 p.m. Closed Thursday Teen Clinic Only on Tuesday from 3 to 7 p.m.",
     "zip" : "97224"
   }, {
     "address" : "426 SW Stark St. 5th floor",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.520537, -122.676107 ]
+    },
     "hours" : "8 a.m.-4:45 p.m. Monday-Friday.",
     "name" : "Westside Health Clinic",
     "notes" : "Sliding scale medical consultations; OHP Plus A and C only and Care Oregon. Se habla Espanol. Call for appointment.",
@@ -1404,10 +1514,14 @@
   }, {
     "address" : "2023 NW Hoyt St.",
     "city" : "Portland",
+    "coords" : {
+      "l" : [ 45.527279, -122.692776 ]
+    },
     "hours" : "10 a.m.-3 p.m., Monday-Thursday. Closed to public on Fridays.",
     "name" : "William Temple House",
     "notes" : "Hygiene needs, six times a year; limited prescription assistance up to $150 three times a year. Must have ID and proof of address. Prescription assistance for psychotropic drugs only. Mental health counseling available for low income individuals.",
     "phone" : "503-226-3021",
+    "url" : "http://www.williamtemple.org/",
     "zip" : "97209-1211"
   } ],
   "hotlines" : [ {
